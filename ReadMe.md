@@ -109,8 +109,8 @@ id: Romania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Romania//
-markerFolder: ./Romania//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Romania] 

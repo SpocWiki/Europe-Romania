@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.97] 
-[geo-lat::45.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.97] 
+[has_place_latitude::45.28] 
 [name::Braila] 
 State ::  
 Country :: [[Romania]]  

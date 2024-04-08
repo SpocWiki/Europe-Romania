@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.27] 
-[geo-lat::44.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.27] 
+[has_place_latitude::44.12] 
 [name::Silistria] 
 State ::  
 Country :: [[Romania]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.65] 
-[geo-lat::46.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.65] 
+[has_place_latitude::46.8] 
 [name::Salonta] 
 State ::  
 Country :: [[Romania]]  

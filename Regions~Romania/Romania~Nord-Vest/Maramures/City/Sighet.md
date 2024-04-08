@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.9] 
-[geo-lat::47.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.9] 
+[has_place_latitude::47.93] 
 [name::Sighet] 
 State ::  
 Country :: [[Romania]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.25] 
-[geo-lat::45.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.25] 
+[has_place_latitude::45.77] 
 [name::Temesvar] 
 State ::  
 Country :: [[Romania]]  

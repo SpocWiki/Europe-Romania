@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.32] 
-[geo-lat::46.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.32] 
+[has_place_latitude::46.17] 
 [name::Arad] 
 State ::  
 Country :: [[Romania]]  

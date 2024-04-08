@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.58] 
-[geo-lat::46.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.58] 
+[has_place_latitude::46.1] 
 [name::Alba-Julia] 
 State ::  
 Country :: [[Romania]]  

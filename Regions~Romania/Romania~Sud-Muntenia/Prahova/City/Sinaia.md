@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.55] 
-[geo-lat::45.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.55] 
+[has_place_latitude::45.35] 
 [name::Sinaia] 
 State ::  
 Country :: [[Romania]]  

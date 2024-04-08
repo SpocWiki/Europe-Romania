@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.23] 
-[geo-lat::45.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.23] 
+[has_place_latitude::45.03] 
 [name::Targu-Jiu] 
 State ::  
 Country :: [[Romania]]  

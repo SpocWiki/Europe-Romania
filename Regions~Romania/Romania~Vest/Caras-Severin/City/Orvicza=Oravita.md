@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.63] 
-[geo-lat::45.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.63] 
+[has_place_latitude::45.03] 
 [name::Orvicza=Oravita] 
 State ::  
 Country :: [[Romania]]  

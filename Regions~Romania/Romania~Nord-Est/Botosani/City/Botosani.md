@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.67] 
-[geo-lat::47.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.67] 
+[has_place_latitude::47.75] 
 [name::Botosani] 
 State ::  
 Country :: [[Romania]]  

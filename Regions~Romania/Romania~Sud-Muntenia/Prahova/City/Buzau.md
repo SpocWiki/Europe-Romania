@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.83] 
-[geo-lat::45.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.83] 
+[has_place_latitude::45.15] 
 [name::Buzau] 
 State ::  
 Country :: [[Romania]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.92] 
-[geo-lat::45.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.92] 
+[has_place_latitude::45.9] 
 [name::Deva] 
 State ::  
 Country :: [[Romania]]  

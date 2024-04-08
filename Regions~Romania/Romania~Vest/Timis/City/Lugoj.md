@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.9] 
-[geo-lat::45.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.9] 
+[has_place_latitude::45.68] 
 [name::Lugoj] 
 State ::  
 Country :: [[Romania]]  

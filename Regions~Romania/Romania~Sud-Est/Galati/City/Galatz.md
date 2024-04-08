@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.05] 
-[geo-lat::45.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.05] 
+[has_place_latitude::45.43] 
 [name::Galatz] 
 State ::  
 Country :: [[Romania]]  

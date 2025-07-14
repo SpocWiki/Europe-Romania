@@ -40,11 +40,16 @@ markerFolder: ./Sibiu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu|Sibiu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.public|Sibiu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.internal|Sibiu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.protect|Sibiu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.private|Sibiu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.personal|Sibiu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.secret|Sibiu.secret]] 
+
+### [Sibiu.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruSibiu.public.md) 
+
+### [Sibiu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruSibiu.internal.md) 
+
+### [Sibiu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruSibiu.protect.md) 
+
+### [Sibiu.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruSibiu.private.md) 
+
+### [Sibiu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruSibiu.personal.md) 
+
+### [Sibiu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruSibiu.secret.md)
 

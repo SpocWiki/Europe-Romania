@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Orvicza=Oravita|Orvicza=Oravita]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Orvicza=Oravita.public|Orvicza=Oravita.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Orvicza=Oravita.internal|Orvicza=Oravita.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Orvicza=Oravita.protect|Orvicza=Oravita.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Orvicza=Oravita.private|Orvicza=Oravita.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Orvicza=Oravita.personal|Orvicza=Oravita.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Orvicza=Oravita.secret|Orvicza=Oravita.secret]] 
+
+### [Orvicza=Oravita.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.public.md) 
+
+### [Orvicza=Oravita.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.internal.md) 
+
+### [Orvicza=Oravita.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.protect.md) 
+
+### [Orvicza=Oravita.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.private.md) 
+
+### [Orvicza=Oravita.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.personal.md) 
+
+### [Orvicza=Oravita.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.secret.md)
+

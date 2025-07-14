@@ -40,11 +40,16 @@ markerFolder: ./Tulcea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Tulcea|Tulcea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Tulcea.public|Tulcea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Tulcea.internal|Tulcea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Tulcea.protect|Tulcea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Tulcea.private|Tulcea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Tulcea.personal|Tulcea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Tulcea.secret|Tulcea.secret]] 
+
+### [Tulcea.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstTulcea.public.md) 
+
+### [Tulcea.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstTulcea.internal.md) 
+
+### [Tulcea.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstTulcea.protect.md) 
+
+### [Tulcea.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstTulcea.private.md) 
+
+### [Tulcea.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstTulcea.personal.md) 
+
+### [Tulcea.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstTulcea.secret.md)
 

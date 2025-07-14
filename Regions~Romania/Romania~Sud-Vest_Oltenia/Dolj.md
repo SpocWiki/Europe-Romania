@@ -40,11 +40,16 @@ markerFolder: ./Dolj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj|Dolj]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.public|Dolj.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.internal|Dolj.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.protect|Dolj.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.private|Dolj.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.personal|Dolj.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.secret|Dolj.secret]] 
+
+### [Dolj.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaDolj.public.md) 
+
+### [Dolj.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaDolj.internal.md) 
+
+### [Dolj.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaDolj.protect.md) 
+
+### [Dolj.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaDolj.private.md) 
+
+### [Dolj.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaDolj.personal.md) 
+
+### [Dolj.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaDolj.secret.md)
 

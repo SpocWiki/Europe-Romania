@@ -40,11 +40,16 @@ markerFolder: ./Bistrita-Nasaud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud|Bistrita-Nasaud]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.public|Bistrita-Nasaud.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.internal|Bistrita-Nasaud.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.protect|Bistrita-Nasaud.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.private|Bistrita-Nasaud.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.personal|Bistrita-Nasaud.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.secret|Bistrita-Nasaud.secret]] 
+
+### [Bistrita-Nasaud.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestBistrita-Nasaud.public.md) 
+
+### [Bistrita-Nasaud.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestBistrita-Nasaud.internal.md) 
+
+### [Bistrita-Nasaud.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestBistrita-Nasaud.protect.md) 
+
+### [Bistrita-Nasaud.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestBistrita-Nasaud.private.md) 
+
+### [Bistrita-Nasaud.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestBistrita-Nasaud.personal.md) 
+
+### [Bistrita-Nasaud.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestBistrita-Nasaud.secret.md)
 

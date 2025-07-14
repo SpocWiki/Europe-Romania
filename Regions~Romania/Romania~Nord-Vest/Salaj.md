@@ -40,11 +40,16 @@ markerFolder: ./Salaj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Salaj|Salaj]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Salaj.public|Salaj.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Salaj.internal|Salaj.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Salaj.protect|Salaj.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Salaj.private|Salaj.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Salaj.personal|Salaj.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Salaj.secret|Salaj.secret]] 
+
+### [Salaj.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestSalaj.public.md) 
+
+### [Salaj.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestSalaj.internal.md) 
+
+### [Salaj.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestSalaj.protect.md) 
+
+### [Salaj.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestSalaj.private.md) 
+
+### [Salaj.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestSalaj.personal.md) 
+
+### [Salaj.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestSalaj.secret.md)
 

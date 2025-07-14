@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Carasebes|Carasebes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Carasebes.public|Carasebes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Carasebes.internal|Carasebes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Carasebes.protect|Carasebes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Carasebes.private|Carasebes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Carasebes.personal|Carasebes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Carasebes.secret|Carasebes.secret]] 
+
+### [Carasebes.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityCarasebes.public.md) 
+
+### [Carasebes.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityCarasebes.internal.md) 
+
+### [Carasebes.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityCarasebes.protect.md) 
+
+### [Carasebes.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityCarasebes.private.md) 
+
+### [Carasebes.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityCarasebes.personal.md) 
+
+### [Carasebes.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityCarasebes.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Targu-Mures|Targu-Mures]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Targu-Mures.public|Targu-Mures.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Targu-Mures.internal|Targu-Mures.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Targu-Mures.protect|Targu-Mures.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Targu-Mures.private|Targu-Mures.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Targu-Mures.personal|Targu-Mures.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Targu-Mures.secret|Targu-Mures.secret]] 
+
+### [Targu-Mures.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityTargu-Mures.public.md) 
+
+### [Targu-Mures.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityTargu-Mures.internal.md) 
+
+### [Targu-Mures.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityTargu-Mures.protect.md) 
+
+### [Targu-Mures.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityTargu-Mures.private.md) 
+
+### [Targu-Mures.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityTargu-Mures.personal.md) 
+
+### [Targu-Mures.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityTargu-Mures.secret.md)
+

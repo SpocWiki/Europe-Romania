@@ -40,11 +40,16 @@ markerFolder: ./Iasi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Iasi|Iasi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Iasi.public|Iasi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Iasi.internal|Iasi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Iasi.protect|Iasi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Iasi.private|Iasi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Iasi.personal|Iasi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Iasi.secret|Iasi.secret]] 
+
+### [Iasi.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstIasi.public.md) 
+
+### [Iasi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstIasi.internal.md) 
+
+### [Iasi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstIasi.protect.md) 
+
+### [Iasi.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstIasi.private.md) 
+
+### [Iasi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstIasi.personal.md) 
+
+### [Iasi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstIasi.secret.md)
 

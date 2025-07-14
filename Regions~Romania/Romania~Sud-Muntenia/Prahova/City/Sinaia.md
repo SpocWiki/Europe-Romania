@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Sinaia|Sinaia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.public|Sinaia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.internal|Sinaia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.protect|Sinaia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.private|Sinaia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.personal|Sinaia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.secret|Sinaia.secret]] 
+
+### [Sinaia.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.public.md) 
+
+### [Sinaia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.internal.md) 
+
+### [Sinaia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.protect.md) 
+
+### [Sinaia.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.private.md) 
+
+### [Sinaia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.personal.md) 
+
+### [Sinaia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.secret.md)
+

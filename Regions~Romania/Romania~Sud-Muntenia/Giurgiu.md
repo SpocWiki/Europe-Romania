@@ -40,11 +40,16 @@ markerFolder: ./Giurgiu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu|Giurgiu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.public|Giurgiu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.internal|Giurgiu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.protect|Giurgiu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.private|Giurgiu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.personal|Giurgiu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.secret|Giurgiu.secret]] 
+
+### [Giurgiu.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaGiurgiu.public.md) 
+
+### [Giurgiu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaGiurgiu.internal.md) 
+
+### [Giurgiu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaGiurgiu.protect.md) 
+
+### [Giurgiu.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaGiurgiu.private.md) 
+
+### [Giurgiu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaGiurgiu.personal.md) 
+
+### [Giurgiu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaGiurgiu.secret.md)
 

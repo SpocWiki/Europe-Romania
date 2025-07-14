@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Salonta|Salonta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Salonta.public|Salonta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Salonta.internal|Salonta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Salonta.protect|Salonta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Salonta.private|Salonta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Salonta.personal|Salonta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Salonta.secret|Salonta.secret]] 
+
+### [Salonta.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CitySalonta.public.md) 
+
+### [Salonta.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CitySalonta.internal.md) 
+
+### [Salonta.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CitySalonta.protect.md) 
+
+### [Salonta.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CitySalonta.private.md) 
+
+### [Salonta.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CitySalonta.personal.md) 
+
+### [Salonta.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CitySalonta.secret.md)
+

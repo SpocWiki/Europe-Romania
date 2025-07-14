@@ -40,11 +40,16 @@ markerFolder: ./Buzau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau|Buzau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.public|Buzau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.internal|Buzau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.protect|Buzau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.private|Buzau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.personal|Buzau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.secret|Buzau.secret]] 
+
+### [Buzau.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.public.md) 
+
+### [Buzau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.internal.md) 
+
+### [Buzau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.protect.md) 
+
+### [Buzau.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.private.md) 
+
+### [Buzau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.personal.md) 
+
+### [Buzau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.secret.md)
 

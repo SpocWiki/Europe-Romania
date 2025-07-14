@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Satu_Mare|Satu_Mare]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Satu_Mare.public|Satu_Mare.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Satu_Mare.internal|Satu_Mare.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Satu_Mare.protect|Satu_Mare.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Satu_Mare.private|Satu_Mare.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Satu_Mare.personal|Satu_Mare.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Satu_Mare.secret|Satu_Mare.secret]] 
+
+### [Satu_Mare.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Satu_Mare\CitySatu_Mare.public.md) 
+
+### [Satu_Mare.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Satu_Mare\CitySatu_Mare.internal.md) 
+
+### [Satu_Mare.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Satu_Mare\CitySatu_Mare.protect.md) 
+
+### [Satu_Mare.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Satu_Mare\CitySatu_Mare.private.md) 
+
+### [Satu_Mare.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Satu_Mare\CitySatu_Mare.personal.md) 
+
+### [Satu_Mare.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Satu_Mare\CitySatu_Mare.secret.md)
+

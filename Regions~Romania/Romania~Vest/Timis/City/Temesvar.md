@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Temesvar|Temesvar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Temesvar.public|Temesvar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Temesvar.internal|Temesvar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Temesvar.protect|Temesvar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Temesvar.private|Temesvar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Temesvar.personal|Temesvar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Temesvar.secret|Temesvar.secret]] 
+
+### [Temesvar.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTemesvar.public.md) 
+
+### [Temesvar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTemesvar.internal.md) 
+
+### [Temesvar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTemesvar.protect.md) 
+
+### [Temesvar.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTemesvar.private.md) 
+
+### [Temesvar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTemesvar.personal.md) 
+
+### [Temesvar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTemesvar.secret.md)
+

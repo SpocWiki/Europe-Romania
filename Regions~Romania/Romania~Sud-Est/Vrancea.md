@@ -40,11 +40,16 @@ markerFolder: ./Vrancea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea|Vrancea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.public|Vrancea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.internal|Vrancea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.protect|Vrancea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.private|Vrancea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.personal|Vrancea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.secret|Vrancea.secret]] 
+
+### [Vrancea.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.public.md) 
+
+### [Vrancea.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.internal.md) 
+
+### [Vrancea.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.protect.md) 
+
+### [Vrancea.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.private.md) 
+
+### [Vrancea.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.personal.md) 
+
+### [Vrancea.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.secret.md)
 

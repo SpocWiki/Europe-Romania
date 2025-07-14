@@ -40,11 +40,16 @@ markerFolder: ./Mehedinti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Mehedinti|Mehedinti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Mehedinti.public|Mehedinti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Mehedinti.internal|Mehedinti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Mehedinti.protect|Mehedinti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Mehedinti.private|Mehedinti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Mehedinti.personal|Mehedinti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Mehedinti.secret|Mehedinti.secret]] 
+
+### [Mehedinti.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaMehedinti.public.md) 
+
+### [Mehedinti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaMehedinti.internal.md) 
+
+### [Mehedinti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaMehedinti.protect.md) 
+
+### [Mehedinti.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaMehedinti.private.md) 
+
+### [Mehedinti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaMehedinti.personal.md) 
+
+### [Mehedinti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaMehedinti.secret.md)
 

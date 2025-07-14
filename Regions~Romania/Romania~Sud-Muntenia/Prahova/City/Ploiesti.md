@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Ploiesti|Ploiesti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Ploiesti.public|Ploiesti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Ploiesti.internal|Ploiesti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Ploiesti.protect|Ploiesti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Ploiesti.private|Ploiesti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Ploiesti.personal|Ploiesti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Ploiesti.secret|Ploiesti.secret]] 
+
+### [Ploiesti.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityPloiesti.public.md) 
+
+### [Ploiesti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityPloiesti.internal.md) 
+
+### [Ploiesti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityPloiesti.protect.md) 
+
+### [Ploiesti.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityPloiesti.private.md) 
+
+### [Ploiesti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityPloiesti.personal.md) 
+
+### [Ploiesti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityPloiesti.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Ilfov/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov|Ilfov]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.public|Ilfov.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.internal|Ilfov.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.protect|Ilfov.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.private|Ilfov.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.personal|Ilfov.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.secret|Ilfov.secret]] 
+
+### [Ilfov.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-IlfovIlfov.public.md) 
+
+### [Ilfov.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-IlfovIlfov.internal.md) 
+
+### [Ilfov.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-IlfovIlfov.protect.md) 
+
+### [Ilfov.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-IlfovIlfov.private.md) 
+
+### [Ilfov.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-IlfovIlfov.personal.md) 
+
+### [Ilfov.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-IlfovIlfov.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Suceava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava|Suceava]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.public|Suceava.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.internal|Suceava.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.protect|Suceava.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.private|Suceava.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.personal|Suceava.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.secret|Suceava.secret]] 
+
+### [Suceava.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstSuceava.public.md) 
+
+### [Suceava.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstSuceava.internal.md) 
+
+### [Suceava.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstSuceava.protect.md) 
+
+### [Suceava.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstSuceava.private.md) 
+
+### [Suceava.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstSuceava.personal.md) 
+
+### [Suceava.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstSuceava.secret.md)
 

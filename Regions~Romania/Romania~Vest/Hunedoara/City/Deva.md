@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Deva|Deva]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Deva.public|Deva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Deva.internal|Deva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Deva.protect|Deva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Deva.private|Deva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Deva.personal|Deva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Deva.secret|Deva.secret]] 
+
+### [Deva.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Hunedoara\CityDeva.public.md) 
+
+### [Deva.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Hunedoara\CityDeva.internal.md) 
+
+### [Deva.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Hunedoara\CityDeva.protect.md) 
+
+### [Deva.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Hunedoara\CityDeva.private.md) 
+
+### [Deva.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Hunedoara\CityDeva.personal.md) 
+
+### [Deva.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Hunedoara\CityDeva.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Cluj=Klausenburg|Cluj=Klausenburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Cluj=Klausenburg.public|Cluj=Klausenburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Cluj=Klausenburg.internal|Cluj=Klausenburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Cluj=Klausenburg.protect|Cluj=Klausenburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Cluj=Klausenburg.private|Cluj=Klausenburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Cluj=Klausenburg.personal|Cluj=Klausenburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Cluj=Klausenburg.secret|Cluj=Klausenburg.secret]] 
+
+### [Cluj=Klausenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.public.md) 
+
+### [Cluj=Klausenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.internal.md) 
+
+### [Cluj=Klausenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.protect.md) 
+
+### [Cluj=Klausenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.private.md) 
+
+### [Cluj=Klausenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.personal.md) 
+
+### [Cluj=Klausenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.secret.md)
+

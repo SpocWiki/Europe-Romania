@@ -40,11 +40,16 @@ markerFolder: ./Caras-Severin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin|Caras-Severin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.public|Caras-Severin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.internal|Caras-Severin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.protect|Caras-Severin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.private|Caras-Severin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.personal|Caras-Severin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.secret|Caras-Severin.secret]] 
+
+### [Caras-Severin.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.public.md) 
+
+### [Caras-Severin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.internal.md) 
+
+### [Caras-Severin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.protect.md) 
+
+### [Caras-Severin.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.private.md) 
+
+### [Caras-Severin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.personal.md) 
+
+### [Caras-Severin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.secret.md)
 

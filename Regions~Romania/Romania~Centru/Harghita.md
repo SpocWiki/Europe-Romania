@@ -40,11 +40,16 @@ markerFolder: ./Harghita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita|Harghita]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.public|Harghita.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.internal|Harghita.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.protect|Harghita.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.private|Harghita.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.personal|Harghita.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.secret|Harghita.secret]] 
+
+### [Harghita.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruHarghita.public.md) 
+
+### [Harghita.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruHarghita.internal.md) 
+
+### [Harghita.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruHarghita.protect.md) 
+
+### [Harghita.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruHarghita.private.md) 
+
+### [Harghita.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruHarghita.personal.md) 
+
+### [Harghita.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruHarghita.secret.md)
 

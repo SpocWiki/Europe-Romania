@@ -40,11 +40,16 @@ markerFolder: ./Timis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Timis|Timis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.public|Timis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.internal|Timis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.protect|Timis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.private|Timis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.personal|Timis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.secret|Timis.secret]] 
+
+### [Timis.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestTimis.public.md) 
+
+### [Timis.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestTimis.internal.md) 
+
+### [Timis.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestTimis.protect.md) 
+
+### [Timis.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestTimis.private.md) 
+
+### [Timis.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestTimis.personal.md) 
+
+### [Timis.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestTimis.secret.md)
 

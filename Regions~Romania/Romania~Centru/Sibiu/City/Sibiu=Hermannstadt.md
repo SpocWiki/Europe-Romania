@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Sibiu=Hermannstadt|Sibiu=Hermannstadt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Sibiu=Hermannstadt.public|Sibiu=Hermannstadt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Sibiu=Hermannstadt.internal|Sibiu=Hermannstadt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Sibiu=Hermannstadt.protect|Sibiu=Hermannstadt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Sibiu=Hermannstadt.private|Sibiu=Hermannstadt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Sibiu=Hermannstadt.personal|Sibiu=Hermannstadt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Sibiu=Hermannstadt.secret|Sibiu=Hermannstadt.secret]] 
+
+### [Sibiu=Hermannstadt.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.public.md) 
+
+### [Sibiu=Hermannstadt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.internal.md) 
+
+### [Sibiu=Hermannstadt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.protect.md) 
+
+### [Sibiu=Hermannstadt.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.private.md) 
+
+### [Sibiu=Hermannstadt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.personal.md) 
+
+### [Sibiu=Hermannstadt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.secret.md)
+

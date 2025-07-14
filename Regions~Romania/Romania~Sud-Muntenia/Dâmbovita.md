@@ -40,11 +40,16 @@ markerFolder: ./Dâmbovita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita|Dâmbovita]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.public|Dâmbovita.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.internal|Dâmbovita.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.protect|Dâmbovita.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.private|Dâmbovita.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.personal|Dâmbovita.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.secret|Dâmbovita.secret]] 
+
+### [Dâmbovita.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.public.md) 
+
+### [Dâmbovita.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.internal.md) 
+
+### [Dâmbovita.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.protect.md) 
+
+### [Dâmbovita.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.private.md) 
+
+### [Dâmbovita.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.personal.md) 
+
+### [Dâmbovita.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.secret.md)
 

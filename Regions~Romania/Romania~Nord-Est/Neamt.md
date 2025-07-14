@@ -40,11 +40,16 @@ markerFolder: ./Neamt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt|Neamt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.public|Neamt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.internal|Neamt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.protect|Neamt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.private|Neamt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.personal|Neamt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.secret|Neamt.secret]] 
+
+### [Neamt.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstNeamt.public.md) 
+
+### [Neamt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstNeamt.internal.md) 
+
+### [Neamt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstNeamt.protect.md) 
+
+### [Neamt.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstNeamt.private.md) 
+
+### [Neamt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstNeamt.personal.md) 
+
+### [Neamt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstNeamt.secret.md)
 

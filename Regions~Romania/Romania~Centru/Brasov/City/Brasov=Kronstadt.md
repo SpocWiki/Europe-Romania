@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Brasov=Kronstadt|Brasov=Kronstadt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Brasov=Kronstadt.public|Brasov=Kronstadt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Brasov=Kronstadt.internal|Brasov=Kronstadt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Brasov=Kronstadt.protect|Brasov=Kronstadt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Brasov=Kronstadt.private|Brasov=Kronstadt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Brasov=Kronstadt.personal|Brasov=Kronstadt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Brasov=Kronstadt.secret|Brasov=Kronstadt.secret]] 
+
+### [Brasov=Kronstadt.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.public.md) 
+
+### [Brasov=Kronstadt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.internal.md) 
+
+### [Brasov=Kronstadt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.protect.md) 
+
+### [Brasov=Kronstadt.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.private.md) 
+
+### [Brasov=Kronstadt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.personal.md) 
+
+### [Brasov=Kronstadt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.secret.md)
+

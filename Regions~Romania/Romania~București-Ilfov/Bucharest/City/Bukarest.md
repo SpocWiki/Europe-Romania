@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Bukarest|Bukarest]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Bukarest.public|Bukarest.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Bukarest.internal|Bukarest.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Bukarest.protect|Bukarest.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Bukarest.private|Bukarest.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Bukarest.personal|Bukarest.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Bukarest.secret|Bukarest.secret]] 
+
+### [Bukarest.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.public.md) 
+
+### [Bukarest.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.internal.md) 
+
+### [Bukarest.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.protect.md) 
+
+### [Bukarest.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.private.md) 
+
+### [Bukarest.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.personal.md) 
+
+### [Bukarest.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.secret.md)
+

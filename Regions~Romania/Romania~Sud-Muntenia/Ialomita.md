@@ -40,11 +40,16 @@ markerFolder: ./Ialomita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita|Ialomita]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.public|Ialomita.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.internal|Ialomita.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.protect|Ialomita.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.private|Ialomita.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.personal|Ialomita.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.secret|Ialomita.secret]] 
+
+### [Ialomita.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.public.md) 
+
+### [Ialomita.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.internal.md) 
+
+### [Ialomita.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.protect.md) 
+
+### [Ialomita.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.private.md) 
+
+### [Ialomita.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.personal.md) 
+
+### [Ialomita.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.secret.md)
 

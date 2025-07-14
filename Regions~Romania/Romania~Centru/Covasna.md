@@ -40,11 +40,16 @@ markerFolder: ./Covasna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna|Covasna]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.public|Covasna.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.internal|Covasna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.protect|Covasna.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.private|Covasna.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.personal|Covasna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.secret|Covasna.secret]] 
+
+### [Covasna.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.public.md) 
+
+### [Covasna.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.internal.md) 
+
+### [Covasna.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.protect.md) 
+
+### [Covasna.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.private.md) 
+
+### [Covasna.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.personal.md) 
+
+### [Covasna.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.secret.md)
 

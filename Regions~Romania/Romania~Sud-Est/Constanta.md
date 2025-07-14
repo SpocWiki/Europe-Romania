@@ -40,11 +40,16 @@ markerFolder: ./Constanta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Constanta|Constanta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Constanta.public|Constanta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Constanta.internal|Constanta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Constanta.protect|Constanta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Constanta.private|Constanta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Constanta.personal|Constanta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Constanta.secret|Constanta.secret]] 
+
+### [Constanta.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstConstanta.public.md) 
+
+### [Constanta.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstConstanta.internal.md) 
+
+### [Constanta.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstConstanta.protect.md) 
+
+### [Constanta.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstConstanta.private.md) 
+
+### [Constanta.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstConstanta.personal.md) 
+
+### [Constanta.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstConstanta.secret.md)
 

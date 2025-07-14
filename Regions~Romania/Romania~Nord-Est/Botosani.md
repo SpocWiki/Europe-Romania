@@ -40,11 +40,16 @@ markerFolder: ./Botosani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani|Botosani]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.public|Botosani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.internal|Botosani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.protect|Botosani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.private|Botosani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.personal|Botosani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.secret|Botosani.secret]] 
+
+### [Botosani.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBotosani.public.md) 
+
+### [Botosani.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBotosani.internal.md) 
+
+### [Botosani.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBotosani.protect.md) 
+
+### [Botosani.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBotosani.private.md) 
+
+### [Botosani.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBotosani.personal.md) 
+
+### [Botosani.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBotosani.secret.md)
 

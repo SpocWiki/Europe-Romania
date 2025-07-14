@@ -129,12 +129,17 @@ Capital :: [[Bukarest]]
 [has_place_latitude::46.2258] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania|Romania]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~East/Romania.public|Romania.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Romania.internal|Romania.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Romania.protect|Romania.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~East/Romania.private|Romania.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Romania.personal|Romania.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Romania.secret|Romania.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\RomaniaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\RomaniaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\RomaniaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\RomaniaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\RomaniaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\RomaniaReadMe.secret.md)
+

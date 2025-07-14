@@ -41,15 +41,17 @@ markerFolder: ./Dâmbovita/
 
 ## Confidential Links & Embeds: 
 
-### [Dâmbovita.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.public.md) 
+### [Dâmbovita](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Dâmbovita.md) 
 
-### [Dâmbovita.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.internal.md) 
+### [Dâmbovita.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Dâmbovita.public.md) 
 
-### [Dâmbovita.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.protect.md) 
+### [Dâmbovita.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Dâmbovita.internal.md) 
 
-### [Dâmbovita.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.private.md) 
+### [Dâmbovita.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Dâmbovita.protect.md) 
 
-### [Dâmbovita.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.personal.md) 
+### [Dâmbovita.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Dâmbovita.private.md) 
 
-### [Dâmbovita.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaDâmbovita.secret.md)
+### [Dâmbovita.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Dâmbovita.personal.md) 
+
+### [Dâmbovita.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Dâmbovita.secret.md)
 

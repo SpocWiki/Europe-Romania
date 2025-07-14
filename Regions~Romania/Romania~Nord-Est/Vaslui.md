@@ -41,15 +41,17 @@ markerFolder: ./Vaslui/
 
 ## Confidential Links & Embeds: 
 
-### [Vaslui.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstVaslui.public.md) 
+### [Vaslui](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Vaslui.md) 
 
-### [Vaslui.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstVaslui.internal.md) 
+### [Vaslui.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Vaslui.public.md) 
 
-### [Vaslui.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstVaslui.protect.md) 
+### [Vaslui.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Vaslui.internal.md) 
 
-### [Vaslui.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstVaslui.private.md) 
+### [Vaslui.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Vaslui.protect.md) 
 
-### [Vaslui.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstVaslui.personal.md) 
+### [Vaslui.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Vaslui.private.md) 
 
-### [Vaslui.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstVaslui.secret.md)
+### [Vaslui.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Vaslui.personal.md) 
+
+### [Vaslui.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Vaslui.secret.md)
 

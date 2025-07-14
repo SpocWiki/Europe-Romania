@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kerson.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityKerson.public.md) 
+### [Kerson](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.md) 
 
-### [Kerson.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityKerson.internal.md) 
+### [Kerson.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.public.md) 
 
-### [Kerson.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityKerson.protect.md) 
+### [Kerson.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.internal.md) 
 
-### [Kerson.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityKerson.private.md) 
+### [Kerson.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.protect.md) 
 
-### [Kerson.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityKerson.personal.md) 
+### [Kerson.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.private.md) 
 
-### [Kerson.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Mures\CityKerson.secret.md)
+### [Kerson.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.personal.md) 
+
+### [Kerson.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.secret.md)
 

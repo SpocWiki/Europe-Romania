@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arad.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityArad.public.md) 
+### [Arad](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.md) 
 
-### [Arad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityArad.internal.md) 
+### [Arad.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.public.md) 
 
-### [Arad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityArad.protect.md) 
+### [Arad.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.internal.md) 
 
-### [Arad.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityArad.private.md) 
+### [Arad.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.protect.md) 
 
-### [Arad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityArad.personal.md) 
+### [Arad.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.private.md) 
 
-### [Arad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityArad.secret.md)
+### [Arad.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.personal.md) 
+
+### [Arad.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.secret.md)
 

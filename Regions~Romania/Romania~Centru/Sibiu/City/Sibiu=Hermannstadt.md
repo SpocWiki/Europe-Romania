@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sibiu=Hermannstadt.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.public.md) 
+### [Sibiu=Hermannstadt](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu=Hermannstadt.md) 
 
-### [Sibiu=Hermannstadt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.internal.md) 
+### [Sibiu=Hermannstadt.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu=Hermannstadt.public.md) 
 
-### [Sibiu=Hermannstadt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.protect.md) 
+### [Sibiu=Hermannstadt.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu=Hermannstadt.internal.md) 
 
-### [Sibiu=Hermannstadt.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.private.md) 
+### [Sibiu=Hermannstadt.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu=Hermannstadt.protect.md) 
 
-### [Sibiu=Hermannstadt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.personal.md) 
+### [Sibiu=Hermannstadt.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu=Hermannstadt.private.md) 
 
-### [Sibiu=Hermannstadt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu=Hermannstadt.secret.md)
+### [Sibiu=Hermannstadt.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu=Hermannstadt.personal.md) 
+
+### [Sibiu=Hermannstadt.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu=Hermannstadt.secret.md)
 

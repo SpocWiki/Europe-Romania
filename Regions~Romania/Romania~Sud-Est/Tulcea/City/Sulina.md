@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sulina.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CitySulina.public.md) 
+### [Sulina](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Sulina.md) 
 
-### [Sulina.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CitySulina.internal.md) 
+### [Sulina.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Sulina.public.md) 
 
-### [Sulina.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CitySulina.protect.md) 
+### [Sulina.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Sulina.internal.md) 
 
-### [Sulina.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CitySulina.private.md) 
+### [Sulina.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Sulina.protect.md) 
 
-### [Sulina.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CitySulina.personal.md) 
+### [Sulina.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Sulina.private.md) 
 
-### [Sulina.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CitySulina.secret.md)
+### [Sulina.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Sulina.personal.md) 
+
+### [Sulina.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Sulina.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Constanta.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\CityConstanta.public.md) 
+### [Constanta](/_Standards/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.md) 
 
-### [Constanta.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\CityConstanta.internal.md) 
+### [Constanta.public](/_public/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.public.md) 
 
-### [Constanta.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\CityConstanta.protect.md) 
+### [Constanta.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.internal.md) 
 
-### [Constanta.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\CityConstanta.private.md) 
+### [Constanta.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.protect.md) 
 
-### [Constanta.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\CityConstanta.personal.md) 
+### [Constanta.private](/_private/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.private.md) 
 
-### [Constanta.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\CityConstanta.secret.md)
+### [Constanta.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.personal.md) 
+
+### [Constanta.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.secret.md)
 

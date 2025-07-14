@@ -41,15 +41,17 @@ markerFolder: ./Bacau/
 
 ## Confidential Links & Embeds: 
 
-### [Bacau.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBacau.public.md) 
+### [Bacau](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Bacau.md) 
 
-### [Bacau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBacau.internal.md) 
+### [Bacau.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Bacau.public.md) 
 
-### [Bacau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBacau.protect.md) 
+### [Bacau.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Bacau.internal.md) 
 
-### [Bacau.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBacau.private.md) 
+### [Bacau.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Bacau.protect.md) 
 
-### [Bacau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBacau.personal.md) 
+### [Bacau.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Bacau.private.md) 
 
-### [Bacau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-EstBacau.secret.md)
+### [Bacau.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Bacau.personal.md) 
+
+### [Bacau.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Bacau.secret.md)
 

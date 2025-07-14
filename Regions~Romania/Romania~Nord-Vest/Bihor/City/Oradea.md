@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oradea.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CityOradea.public.md) 
+### [Oradea](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bihor/City/Oradea.md) 
 
-### [Oradea.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CityOradea.internal.md) 
+### [Oradea.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bihor/City/Oradea.public.md) 
 
-### [Oradea.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CityOradea.protect.md) 
+### [Oradea.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bihor/City/Oradea.internal.md) 
 
-### [Oradea.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CityOradea.private.md) 
+### [Oradea.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bihor/City/Oradea.protect.md) 
 
-### [Oradea.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CityOradea.personal.md) 
+### [Oradea.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bihor/City/Oradea.private.md) 
 
-### [Oradea.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Bihor\CityOradea.secret.md)
+### [Oradea.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bihor/City/Oradea.personal.md) 
+
+### [Oradea.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bihor/City/Oradea.secret.md)
 

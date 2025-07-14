@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~East\RomaniaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~East/Romania/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~East\RomaniaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~East/Romania/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~East\RomaniaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~East\RomaniaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~East\RomaniaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~East/Romania/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~East\RomaniaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/License.secret.md)
 

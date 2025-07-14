@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cluj=Klausenburg.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.public.md) 
+### [Cluj=Klausenburg](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.md) 
 
-### [Cluj=Klausenburg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.internal.md) 
+### [Cluj=Klausenburg.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.public.md) 
 
-### [Cluj=Klausenburg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.protect.md) 
+### [Cluj=Klausenburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.internal.md) 
 
-### [Cluj=Klausenburg.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.private.md) 
+### [Cluj=Klausenburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.protect.md) 
 
-### [Cluj=Klausenburg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.personal.md) 
+### [Cluj=Klausenburg.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.private.md) 
 
-### [Cluj=Klausenburg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Cluj\CityCluj=Klausenburg.secret.md)
+### [Cluj=Klausenburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.personal.md) 
+
+### [Cluj=Klausenburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.secret.md)
 

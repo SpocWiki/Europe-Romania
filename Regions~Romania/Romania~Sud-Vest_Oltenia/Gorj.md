@@ -41,15 +41,17 @@ markerFolder: ./Gorj/
 
 ## Confidential Links & Embeds: 
 
-### [Gorj.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaGorj.public.md) 
+### [Gorj](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj.md) 
 
-### [Gorj.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaGorj.internal.md) 
+### [Gorj.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj.public.md) 
 
-### [Gorj.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaGorj.protect.md) 
+### [Gorj.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj.internal.md) 
 
-### [Gorj.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaGorj.private.md) 
+### [Gorj.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj.protect.md) 
 
-### [Gorj.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaGorj.personal.md) 
+### [Gorj.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj.private.md) 
 
-### [Gorj.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaGorj.secret.md)
+### [Gorj.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj.personal.md) 
+
+### [Gorj.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj.secret.md)
 

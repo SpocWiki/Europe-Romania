@@ -41,15 +41,17 @@ markerFolder: ./Hunedoara/
 
 ## Confidential Links & Embeds: 
 
-### [Hunedoara.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestHunedoara.public.md) 
+### [Hunedoara](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Hunedoara.md) 
 
-### [Hunedoara.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestHunedoara.internal.md) 
+### [Hunedoara.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Hunedoara.public.md) 
 
-### [Hunedoara.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestHunedoara.protect.md) 
+### [Hunedoara.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Hunedoara.internal.md) 
 
-### [Hunedoara.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestHunedoara.private.md) 
+### [Hunedoara.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Hunedoara.protect.md) 
 
-### [Hunedoara.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestHunedoara.personal.md) 
+### [Hunedoara.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Hunedoara.private.md) 
 
-### [Hunedoara.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestHunedoara.secret.md)
+### [Hunedoara.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Hunedoara.personal.md) 
+
+### [Hunedoara.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Hunedoara.secret.md)
 

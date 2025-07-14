@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sinaia.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.public.md) 
+### [Sinaia](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Sinaia.md) 
 
-### [Sinaia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.internal.md) 
+### [Sinaia.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Sinaia.public.md) 
 
-### [Sinaia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.protect.md) 
+### [Sinaia.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Sinaia.internal.md) 
 
-### [Sinaia.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.private.md) 
+### [Sinaia.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Sinaia.protect.md) 
 
-### [Sinaia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.personal.md) 
+### [Sinaia.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Sinaia.private.md) 
 
-### [Sinaia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CitySinaia.secret.md)
+### [Sinaia.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Sinaia.personal.md) 
+
+### [Sinaia.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Sinaia.secret.md)
 

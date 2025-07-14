@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bekes-Csaba.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityBekes-Csaba.public.md) 
+### [Bekes-Csaba](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Bekes-Csaba.md) 
 
-### [Bekes-Csaba.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityBekes-Csaba.internal.md) 
+### [Bekes-Csaba.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Bekes-Csaba.public.md) 
 
-### [Bekes-Csaba.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityBekes-Csaba.protect.md) 
+### [Bekes-Csaba.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Bekes-Csaba.internal.md) 
 
-### [Bekes-Csaba.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityBekes-Csaba.private.md) 
+### [Bekes-Csaba.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Bekes-Csaba.protect.md) 
 
-### [Bekes-Csaba.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityBekes-Csaba.personal.md) 
+### [Bekes-Csaba.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Bekes-Csaba.private.md) 
 
-### [Bekes-Csaba.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Arad\CityBekes-Csaba.secret.md)
+### [Bekes-Csaba.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Bekes-Csaba.personal.md) 
+
+### [Bekes-Csaba.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Bekes-Csaba.secret.md)
 

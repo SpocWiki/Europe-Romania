@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brasov=Kronstadt.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.public.md) 
+### [Brasov=Kronstadt](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.md) 
 
-### [Brasov=Kronstadt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.internal.md) 
+### [Brasov=Kronstadt.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.public.md) 
 
-### [Brasov=Kronstadt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.protect.md) 
+### [Brasov=Kronstadt.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.internal.md) 
 
-### [Brasov=Kronstadt.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.private.md) 
+### [Brasov=Kronstadt.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.protect.md) 
 
-### [Brasov=Kronstadt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.personal.md) 
+### [Brasov=Kronstadt.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.private.md) 
 
-### [Brasov=Kronstadt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityBrasov=Kronstadt.secret.md)
+### [Brasov=Kronstadt.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.personal.md) 
+
+### [Brasov=Kronstadt.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.secret.md)
 

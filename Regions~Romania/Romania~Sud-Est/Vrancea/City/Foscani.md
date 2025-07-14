@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Foscani.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Vrancea\CityFoscani.public.md) 
+### [Foscani](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea/City/Foscani.md) 
 
-### [Foscani.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Vrancea\CityFoscani.internal.md) 
+### [Foscani.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea/City/Foscani.public.md) 
 
-### [Foscani.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Vrancea\CityFoscani.protect.md) 
+### [Foscani.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea/City/Foscani.internal.md) 
 
-### [Foscani.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Vrancea\CityFoscani.private.md) 
+### [Foscani.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea/City/Foscani.protect.md) 
 
-### [Foscani.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Vrancea\CityFoscani.personal.md) 
+### [Foscani.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea/City/Foscani.private.md) 
 
-### [Foscani.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Vrancea\CityFoscani.secret.md)
+### [Foscani.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea/City/Foscani.personal.md) 
+
+### [Foscani.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea/City/Foscani.secret.md)
 

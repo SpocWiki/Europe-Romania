@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alba-Julia.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Alba\CityAlba-Julia.public.md) 
+### [Alba-Julia](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.md) 
 
-### [Alba-Julia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Alba\CityAlba-Julia.internal.md) 
+### [Alba-Julia.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.public.md) 
 
-### [Alba-Julia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Alba\CityAlba-Julia.protect.md) 
+### [Alba-Julia.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.internal.md) 
 
-### [Alba-Julia.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Alba\CityAlba-Julia.private.md) 
+### [Alba-Julia.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.protect.md) 
 
-### [Alba-Julia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Alba\CityAlba-Julia.personal.md) 
+### [Alba-Julia.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.private.md) 
 
-### [Alba-Julia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Alba\CityAlba-Julia.secret.md)
+### [Alba-Julia.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.personal.md) 
+
+### [Alba-Julia.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.secret.md)
 

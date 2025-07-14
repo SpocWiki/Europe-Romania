@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lugoj.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityLugoj.public.md) 
+### [Lugoj](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Lugoj.md) 
 
-### [Lugoj.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityLugoj.internal.md) 
+### [Lugoj.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Lugoj.public.md) 
 
-### [Lugoj.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityLugoj.protect.md) 
+### [Lugoj.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Lugoj.internal.md) 
 
-### [Lugoj.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityLugoj.private.md) 
+### [Lugoj.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Lugoj.protect.md) 
 
-### [Lugoj.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityLugoj.personal.md) 
+### [Lugoj.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Lugoj.private.md) 
 
-### [Lugoj.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityLugoj.secret.md)
+### [Lugoj.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Lugoj.personal.md) 
+
+### [Lugoj.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Lugoj.secret.md)
 

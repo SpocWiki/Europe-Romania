@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tulcea.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CityTulcea.public.md) 
+### [Tulcea](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Tulcea.md) 
 
-### [Tulcea.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CityTulcea.internal.md) 
+### [Tulcea.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Tulcea.public.md) 
 
-### [Tulcea.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CityTulcea.protect.md) 
+### [Tulcea.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Tulcea.internal.md) 
 
-### [Tulcea.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CityTulcea.private.md) 
+### [Tulcea.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Tulcea.protect.md) 
 
-### [Tulcea.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CityTulcea.personal.md) 
+### [Tulcea.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Tulcea.private.md) 
 
-### [Tulcea.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Tulcea\CityTulcea.secret.md)
+### [Tulcea.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Tulcea.personal.md) 
+
+### [Tulcea.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Tulcea/City/Tulcea.secret.md)
 

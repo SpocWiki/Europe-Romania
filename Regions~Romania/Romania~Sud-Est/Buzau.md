@@ -41,15 +41,17 @@ markerFolder: ./Buzau/
 
 ## Confidential Links & Embeds: 
 
-### [Buzau.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.public.md) 
+### [Buzau](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Buzau.md) 
 
-### [Buzau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.internal.md) 
+### [Buzau.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Buzau.public.md) 
 
-### [Buzau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.protect.md) 
+### [Buzau.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Buzau.internal.md) 
 
-### [Buzau.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.private.md) 
+### [Buzau.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Buzau.protect.md) 
 
-### [Buzau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.personal.md) 
+### [Buzau.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Buzau.private.md) 
 
-### [Buzau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstBuzau.secret.md)
+### [Buzau.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Buzau.personal.md) 
+
+### [Buzau.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Buzau.secret.md)
 

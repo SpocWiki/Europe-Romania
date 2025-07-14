@@ -41,15 +41,17 @@ markerFolder: ./Maramures/
 
 ## Confidential Links & Embeds: 
 
-### [Maramures.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestMaramures.public.md) 
+### [Maramures](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.md) 
 
-### [Maramures.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestMaramures.internal.md) 
+### [Maramures.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.public.md) 
 
-### [Maramures.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestMaramures.protect.md) 
+### [Maramures.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.internal.md) 
 
-### [Maramures.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestMaramures.private.md) 
+### [Maramures.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.protect.md) 
 
-### [Maramures.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestMaramures.personal.md) 
+### [Maramures.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.private.md) 
 
-### [Maramures.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-VestMaramures.secret.md)
+### [Maramures.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.personal.md) 
+
+### [Maramures.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.secret.md)
 

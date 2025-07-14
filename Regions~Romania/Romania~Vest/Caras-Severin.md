@@ -41,15 +41,17 @@ markerFolder: ./Caras-Severin/
 
 ## Confidential Links & Embeds: 
 
-### [Caras-Severin.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.public.md) 
+### [Caras-Severin](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.md) 
 
-### [Caras-Severin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.internal.md) 
+### [Caras-Severin.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.public.md) 
 
-### [Caras-Severin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.protect.md) 
+### [Caras-Severin.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.internal.md) 
 
-### [Caras-Severin.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.private.md) 
+### [Caras-Severin.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.protect.md) 
 
-### [Caras-Severin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.personal.md) 
+### [Caras-Severin.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.private.md) 
 
-### [Caras-Severin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestCaras-Severin.secret.md)
+### [Caras-Severin.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.personal.md) 
+
+### [Caras-Severin.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.secret.md)
 

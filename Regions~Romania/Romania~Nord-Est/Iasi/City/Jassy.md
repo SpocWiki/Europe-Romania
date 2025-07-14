@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jassy.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Iasi\CityJassy.public.md) 
+### [Jassy](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Iasi/City/Jassy.md) 
 
-### [Jassy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Iasi\CityJassy.internal.md) 
+### [Jassy.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Iasi/City/Jassy.public.md) 
 
-### [Jassy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Iasi\CityJassy.protect.md) 
+### [Jassy.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Iasi/City/Jassy.internal.md) 
 
-### [Jassy.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Iasi\CityJassy.private.md) 
+### [Jassy.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Iasi/City/Jassy.protect.md) 
 
-### [Jassy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Iasi\CityJassy.personal.md) 
+### [Jassy.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Iasi/City/Jassy.private.md) 
 
-### [Jassy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Iasi\CityJassy.secret.md)
+### [Jassy.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Iasi/City/Jassy.personal.md) 
+
+### [Jassy.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Iasi/City/Jassy.secret.md)
 

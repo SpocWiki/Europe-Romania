@@ -41,15 +41,17 @@ markerFolder: ./Vrancea/
 
 ## Confidential Links & Embeds: 
 
-### [Vrancea.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.public.md) 
+### [Vrancea](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea.md) 
 
-### [Vrancea.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.internal.md) 
+### [Vrancea.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea.public.md) 
 
-### [Vrancea.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.protect.md) 
+### [Vrancea.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea.internal.md) 
 
-### [Vrancea.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.private.md) 
+### [Vrancea.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea.protect.md) 
 
-### [Vrancea.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.personal.md) 
+### [Vrancea.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea.private.md) 
 
-### [Vrancea.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstVrancea.secret.md)
+### [Vrancea.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea.personal.md) 
+
+### [Vrancea.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Vrancea.secret.md)
 

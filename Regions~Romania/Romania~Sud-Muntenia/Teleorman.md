@@ -41,15 +41,17 @@ markerFolder: ./Teleorman/
 
 ## Confidential Links & Embeds: 
 
-### [Teleorman.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaTeleorman.public.md) 
+### [Teleorman](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.md) 
 
-### [Teleorman.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaTeleorman.internal.md) 
+### [Teleorman.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.public.md) 
 
-### [Teleorman.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaTeleorman.protect.md) 
+### [Teleorman.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.internal.md) 
 
-### [Teleorman.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaTeleorman.private.md) 
+### [Teleorman.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.protect.md) 
 
-### [Teleorman.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaTeleorman.personal.md) 
+### [Teleorman.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.private.md) 
 
-### [Teleorman.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaTeleorman.secret.md)
+### [Teleorman.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.personal.md) 
+
+### [Teleorman.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.secret.md)
 

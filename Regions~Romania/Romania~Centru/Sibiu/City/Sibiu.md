@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sibiu.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu.public.md) 
+### [Sibiu](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu.md) 
 
-### [Sibiu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu.internal.md) 
+### [Sibiu.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu.public.md) 
 
-### [Sibiu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu.protect.md) 
+### [Sibiu.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu.internal.md) 
 
-### [Sibiu.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu.private.md) 
+### [Sibiu.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu.protect.md) 
 
-### [Sibiu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu.personal.md) 
+### [Sibiu.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu.private.md) 
 
-### [Sibiu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Sibiu\CitySibiu.secret.md)
+### [Sibiu.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu.personal.md) 
+
+### [Sibiu.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Sibiu/City/Sibiu.secret.md)
 

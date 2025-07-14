@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sighet.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Maramures\CitySighet.public.md) 
+### [Sighet](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Sighet.md) 
 
-### [Sighet.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Maramures\CitySighet.internal.md) 
+### [Sighet.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Sighet.public.md) 
 
-### [Sighet.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Maramures\CitySighet.protect.md) 
+### [Sighet.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Sighet.internal.md) 
 
-### [Sighet.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Maramures\CitySighet.private.md) 
+### [Sighet.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Sighet.protect.md) 
 
-### [Sighet.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Maramures\CitySighet.personal.md) 
+### [Sighet.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Sighet.private.md) 
 
-### [Sighet.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Maramures\CitySighet.secret.md)
+### [Sighet.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Sighet.personal.md) 
+
+### [Sighet.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Sighet.secret.md)
 

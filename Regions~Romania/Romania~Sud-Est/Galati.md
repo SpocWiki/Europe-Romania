@@ -41,15 +41,17 @@ markerFolder: ./Galati/
 
 ## Confidential Links & Embeds: 
 
-### [Galati.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstGalati.public.md) 
+### [Galati](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.md) 
 
-### [Galati.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstGalati.internal.md) 
+### [Galati.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.public.md) 
 
-### [Galati.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstGalati.protect.md) 
+### [Galati.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.internal.md) 
 
-### [Galati.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstGalati.private.md) 
+### [Galati.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.protect.md) 
 
-### [Galati.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstGalati.personal.md) 
+### [Galati.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.private.md) 
 
-### [Galati.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-EstGalati.secret.md)
+### [Galati.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.personal.md) 
+
+### [Galati.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zalau.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Salaj\CityZalau.public.md) 
+### [Zalau](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Salaj/City/Zalau.md) 
 
-### [Zalau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Salaj\CityZalau.internal.md) 
+### [Zalau.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Salaj/City/Zalau.public.md) 
 
-### [Zalau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Salaj\CityZalau.protect.md) 
+### [Zalau.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Salaj/City/Zalau.internal.md) 
 
-### [Zalau.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Salaj\CityZalau.private.md) 
+### [Zalau.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Salaj/City/Zalau.protect.md) 
 
-### [Zalau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Salaj\CityZalau.personal.md) 
+### [Zalau.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Salaj/City/Zalau.private.md) 
 
-### [Zalau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Vest\Salaj\CityZalau.secret.md)
+### [Zalau.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Salaj/City/Zalau.personal.md) 
+
+### [Zalau.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Salaj/City/Zalau.secret.md)
 

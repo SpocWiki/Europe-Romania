@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorna_Watra.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityDorna_Watra.public.md) 
+### [Dorna_Watra](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.md) 
 
-### [Dorna_Watra.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityDorna_Watra.internal.md) 
+### [Dorna_Watra.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.public.md) 
 
-### [Dorna_Watra.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityDorna_Watra.protect.md) 
+### [Dorna_Watra.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.internal.md) 
 
-### [Dorna_Watra.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityDorna_Watra.private.md) 
+### [Dorna_Watra.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.protect.md) 
 
-### [Dorna_Watra.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityDorna_Watra.personal.md) 
+### [Dorna_Watra.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.private.md) 
 
-### [Dorna_Watra.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityDorna_Watra.secret.md)
+### [Dorna_Watra.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.personal.md) 
+
+### [Dorna_Watra.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaczyka.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityKaczyka.public.md) 
+### [Kaczyka](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.md) 
 
-### [Kaczyka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityKaczyka.internal.md) 
+### [Kaczyka.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.public.md) 
 
-### [Kaczyka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityKaczyka.protect.md) 
+### [Kaczyka.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.internal.md) 
 
-### [Kaczyka.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityKaczyka.private.md) 
+### [Kaczyka.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.protect.md) 
 
-### [Kaczyka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityKaczyka.personal.md) 
+### [Kaczyka.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.private.md) 
 
-### [Kaczyka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Suceava\CityKaczyka.secret.md)
+### [Kaczyka.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.personal.md) 
+
+### [Kaczyka.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.secret.md)
 

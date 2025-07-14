@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bukarest.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.public.md) 
+### [Bukarest](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.md) 
 
-### [Bukarest.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.internal.md) 
+### [Bukarest.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.public.md) 
 
-### [Bukarest.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.protect.md) 
+### [Bukarest.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.internal.md) 
 
-### [Bukarest.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.private.md) 
+### [Bukarest.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.protect.md) 
 
-### [Bukarest.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.personal.md) 
+### [Bukarest.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.private.md) 
 
-### [Bukarest.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~București-Ilfov\Bucharest\CityBukarest.secret.md)
+### [Bukarest.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.personal.md) 
+
+### [Bukarest.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.secret.md)
 

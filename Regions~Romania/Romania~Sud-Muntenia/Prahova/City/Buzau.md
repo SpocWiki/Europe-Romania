@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buzau.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityBuzau.public.md) 
+### [Buzau](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Buzau.md) 
 
-### [Buzau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityBuzau.internal.md) 
+### [Buzau.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Buzau.public.md) 
 
-### [Buzau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityBuzau.protect.md) 
+### [Buzau.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Buzau.internal.md) 
 
-### [Buzau.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityBuzau.private.md) 
+### [Buzau.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Buzau.protect.md) 
 
-### [Buzau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityBuzau.personal.md) 
+### [Buzau.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Buzau.private.md) 
 
-### [Buzau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Muntenia\Prahova\CityBuzau.secret.md)
+### [Buzau.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Buzau.personal.md) 
+
+### [Buzau.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Buzau.secret.md)
 

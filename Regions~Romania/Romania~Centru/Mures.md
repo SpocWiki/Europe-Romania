@@ -41,15 +41,17 @@ markerFolder: ./Mures/
 
 ## Confidential Links & Embeds: 
 
-### [Mures.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruMures.public.md) 
+### [Mures](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures.md) 
 
-### [Mures.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruMures.internal.md) 
+### [Mures.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures.public.md) 
 
-### [Mures.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruMures.protect.md) 
+### [Mures.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures.internal.md) 
 
-### [Mures.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruMures.private.md) 
+### [Mures.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures.protect.md) 
 
-### [Mures.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruMures.personal.md) 
+### [Mures.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures.private.md) 
 
-### [Mures.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruMures.secret.md)
+### [Mures.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures.personal.md) 
+
+### [Mures.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures.secret.md)
 

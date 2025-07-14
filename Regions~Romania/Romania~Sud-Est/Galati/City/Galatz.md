@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Galatz.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Galati\CityGalatz.public.md) 
+### [Galatz](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati/City/Galatz.md) 
 
-### [Galatz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Galati\CityGalatz.internal.md) 
+### [Galatz.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati/City/Galatz.public.md) 
 
-### [Galatz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Galati\CityGalatz.protect.md) 
+### [Galatz.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati/City/Galatz.internal.md) 
 
-### [Galatz.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Galati\CityGalatz.private.md) 
+### [Galatz.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati/City/Galatz.protect.md) 
 
-### [Galatz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Galati\CityGalatz.personal.md) 
+### [Galatz.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati/City/Galatz.private.md) 
 
-### [Galatz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Galati\CityGalatz.secret.md)
+### [Galatz.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati/City/Galatz.personal.md) 
+
+### [Galatz.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati/City/Galatz.secret.md)
 

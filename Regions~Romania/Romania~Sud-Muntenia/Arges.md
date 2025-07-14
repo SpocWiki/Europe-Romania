@@ -41,15 +41,17 @@ markerFolder: ./Arges/
 
 ## Confidential Links & Embeds: 
 
-### [Arges.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaArges.public.md) 
+### [Arges](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Arges.md) 
 
-### [Arges.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaArges.internal.md) 
+### [Arges.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Arges.public.md) 
 
-### [Arges.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaArges.protect.md) 
+### [Arges.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Arges.internal.md) 
 
-### [Arges.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaArges.private.md) 
+### [Arges.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Arges.protect.md) 
 
-### [Arges.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaArges.personal.md) 
+### [Arges.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Arges.private.md) 
 
-### [Arges.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaArges.secret.md)
+### [Arges.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Arges.personal.md) 
+
+### [Arges.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Arges.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Covasna/
 
 ## Confidential Links & Embeds: 
 
-### [Covasna.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.public.md) 
+### [Covasna](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Covasna.md) 
 
-### [Covasna.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.internal.md) 
+### [Covasna.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Covasna.public.md) 
 
-### [Covasna.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.protect.md) 
+### [Covasna.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Covasna.internal.md) 
 
-### [Covasna.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.private.md) 
+### [Covasna.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Covasna.protect.md) 
 
-### [Covasna.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.personal.md) 
+### [Covasna.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Covasna.private.md) 
 
-### [Covasna.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~CentruCovasna.secret.md)
+### [Covasna.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Covasna.personal.md) 
+
+### [Covasna.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Covasna.secret.md)
 

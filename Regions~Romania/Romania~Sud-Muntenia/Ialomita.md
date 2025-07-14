@@ -41,15 +41,17 @@ markerFolder: ./Ialomita/
 
 ## Confidential Links & Embeds: 
 
-### [Ialomita.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.public.md) 
+### [Ialomita](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.md) 
 
-### [Ialomita.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.internal.md) 
+### [Ialomita.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.public.md) 
 
-### [Ialomita.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.protect.md) 
+### [Ialomita.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.internal.md) 
 
-### [Ialomita.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.private.md) 
+### [Ialomita.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.protect.md) 
 
-### [Ialomita.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.personal.md) 
+### [Ialomita.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.private.md) 
 
-### [Ialomita.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-MunteniaIalomita.secret.md)
+### [Ialomita.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.personal.md) 
+
+### [Ialomita.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.secret.md)
 

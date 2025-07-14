@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Slatina.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Olt\CitySlatina.public.md) 
+### [Slatina](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.md) 
 
-### [Slatina.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Olt\CitySlatina.internal.md) 
+### [Slatina.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.public.md) 
 
-### [Slatina.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Olt\CitySlatina.protect.md) 
+### [Slatina.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.internal.md) 
 
-### [Slatina.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Olt\CitySlatina.private.md) 
+### [Slatina.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.protect.md) 
 
-### [Slatina.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Olt\CitySlatina.personal.md) 
+### [Slatina.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.private.md) 
 
-### [Slatina.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Olt\CitySlatina.secret.md)
+### [Slatina.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.personal.md) 
+
+### [Slatina.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.secret.md)
 

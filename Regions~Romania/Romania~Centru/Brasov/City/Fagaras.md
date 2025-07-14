@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fagaras.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityFagaras.public.md) 
+### [Fagaras](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Fagaras.md) 
 
-### [Fagaras.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityFagaras.internal.md) 
+### [Fagaras.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Fagaras.public.md) 
 
-### [Fagaras.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityFagaras.protect.md) 
+### [Fagaras.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Fagaras.internal.md) 
 
-### [Fagaras.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityFagaras.private.md) 
+### [Fagaras.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Fagaras.protect.md) 
 
-### [Fagaras.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityFagaras.personal.md) 
+### [Fagaras.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Fagaras.private.md) 
 
-### [Fagaras.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Centru\Brasov\CityFagaras.secret.md)
+### [Fagaras.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Fagaras.personal.md) 
+
+### [Fagaras.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Fagaras.secret.md)
 

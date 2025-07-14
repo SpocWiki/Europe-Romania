@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Botosani.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Botosani\CityBotosani.public.md) 
+### [Botosani](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.md) 
 
-### [Botosani.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Botosani\CityBotosani.internal.md) 
+### [Botosani.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.public.md) 
 
-### [Botosani.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Botosani\CityBotosani.protect.md) 
+### [Botosani.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.internal.md) 
 
-### [Botosani.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Botosani\CityBotosani.private.md) 
+### [Botosani.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.protect.md) 
 
-### [Botosani.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Botosani\CityBotosani.personal.md) 
+### [Botosani.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.private.md) 
 
-### [Botosani.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Nord-Est\Botosani\CityBotosani.secret.md)
+### [Botosani.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.personal.md) 
+
+### [Botosani.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.secret.md)
 

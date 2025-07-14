@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Timisoara.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTimisoara.public.md) 
+### [Timisoara](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Timisoara.md) 
 
-### [Timisoara.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTimisoara.internal.md) 
+### [Timisoara.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Timisoara.public.md) 
 
-### [Timisoara.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTimisoara.protect.md) 
+### [Timisoara.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Timisoara.internal.md) 
 
-### [Timisoara.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTimisoara.private.md) 
+### [Timisoara.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Timisoara.protect.md) 
 
-### [Timisoara.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTimisoara.personal.md) 
+### [Timisoara.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Timisoara.private.md) 
 
-### [Timisoara.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Timis\CityTimisoara.secret.md)
+### [Timisoara.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Timisoara.personal.md) 
+
+### [Timisoara.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Timisoara.secret.md)
 

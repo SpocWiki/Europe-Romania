@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Targu-Jiu.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Gorj\CityTargu-Jiu.public.md) 
+### [Targu-Jiu](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj/City/Targu-Jiu.md) 
 
-### [Targu-Jiu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Gorj\CityTargu-Jiu.internal.md) 
+### [Targu-Jiu.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj/City/Targu-Jiu.public.md) 
 
-### [Targu-Jiu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Gorj\CityTargu-Jiu.protect.md) 
+### [Targu-Jiu.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj/City/Targu-Jiu.internal.md) 
 
-### [Targu-Jiu.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Gorj\CityTargu-Jiu.private.md) 
+### [Targu-Jiu.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj/City/Targu-Jiu.protect.md) 
 
-### [Targu-Jiu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Gorj\CityTargu-Jiu.personal.md) 
+### [Targu-Jiu.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj/City/Targu-Jiu.private.md) 
 
-### [Targu-Jiu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Gorj\CityTargu-Jiu.secret.md)
+### [Targu-Jiu.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj/City/Targu-Jiu.personal.md) 
+
+### [Targu-Jiu.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Gorj/City/Targu-Jiu.secret.md)
 

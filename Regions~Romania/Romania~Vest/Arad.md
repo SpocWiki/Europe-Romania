@@ -41,15 +41,17 @@ markerFolder: ./Arad/
 
 ## Confidential Links & Embeds: 
 
-### [Arad.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestArad.public.md) 
+### [Arad](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad.md) 
 
-### [Arad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestArad.internal.md) 
+### [Arad.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad.public.md) 
 
-### [Arad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestArad.protect.md) 
+### [Arad.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad.internal.md) 
 
-### [Arad.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestArad.private.md) 
+### [Arad.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad.protect.md) 
 
-### [Arad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestArad.personal.md) 
+### [Arad.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad.private.md) 
 
-### [Arad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~VestArad.secret.md)
+### [Arad.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad.personal.md) 
+
+### [Arad.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad.secret.md)
 

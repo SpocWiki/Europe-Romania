@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Silistria.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Constanta\CitySilistria.public.md) 
+### [Silistria](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Constanta/City/Silistria.md) 
 
-### [Silistria.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Constanta\CitySilistria.internal.md) 
+### [Silistria.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Constanta/City/Silistria.public.md) 
 
-### [Silistria.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Constanta\CitySilistria.protect.md) 
+### [Silistria.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Constanta/City/Silistria.internal.md) 
 
-### [Silistria.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Constanta\CitySilistria.private.md) 
+### [Silistria.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Constanta/City/Silistria.protect.md) 
 
-### [Silistria.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Constanta\CitySilistria.personal.md) 
+### [Silistria.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Constanta/City/Silistria.private.md) 
 
-### [Silistria.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Est\Constanta\CitySilistria.secret.md)
+### [Silistria.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Constanta/City/Silistria.personal.md) 
+
+### [Silistria.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Constanta/City/Silistria.secret.md)
 

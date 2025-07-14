@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Craiova.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Dolj\CityCraiova.public.md) 
+### [Craiova](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.md) 
 
-### [Craiova.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Dolj\CityCraiova.internal.md) 
+### [Craiova.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.public.md) 
 
-### [Craiova.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Dolj\CityCraiova.protect.md) 
+### [Craiova.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.internal.md) 
 
-### [Craiova.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Dolj\CityCraiova.private.md) 
+### [Craiova.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.protect.md) 
 
-### [Craiova.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Dolj\CityCraiova.personal.md) 
+### [Craiova.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.private.md) 
 
-### [Craiova.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Dolj\CityCraiova.secret.md)
+### [Craiova.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.personal.md) 
+
+### [Craiova.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.secret.md)
 

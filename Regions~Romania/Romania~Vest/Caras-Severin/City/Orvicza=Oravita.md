@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orvicza=Oravita.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.public.md) 
+### [Orvicza=Oravita](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin/City/Orvicza=Oravita.md) 
 
-### [Orvicza=Oravita.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.internal.md) 
+### [Orvicza=Oravita.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin/City/Orvicza=Oravita.public.md) 
 
-### [Orvicza=Oravita.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.protect.md) 
+### [Orvicza=Oravita.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin/City/Orvicza=Oravita.internal.md) 
 
-### [Orvicza=Oravita.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.private.md) 
+### [Orvicza=Oravita.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin/City/Orvicza=Oravita.protect.md) 
 
-### [Orvicza=Oravita.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.personal.md) 
+### [Orvicza=Oravita.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin/City/Orvicza=Oravita.private.md) 
 
-### [Orvicza=Oravita.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Vest\Caras-Severin\CityOrvicza=Oravita.secret.md)
+### [Orvicza=Oravita.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin/City/Orvicza=Oravita.personal.md) 
+
+### [Orvicza=Oravita.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin/City/Orvicza=Oravita.secret.md)
 

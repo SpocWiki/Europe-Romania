@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orsova.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Mehedinti\CityOrsova.public.md) 
+### [Orsova](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.md) 
 
-### [Orsova.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Mehedinti\CityOrsova.internal.md) 
+### [Orsova.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.public.md) 
 
-### [Orsova.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Mehedinti\CityOrsova.protect.md) 
+### [Orsova.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.internal.md) 
 
-### [Orsova.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Mehedinti\CityOrsova.private.md) 
+### [Orsova.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.protect.md) 
 
-### [Orsova.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Mehedinti\CityOrsova.personal.md) 
+### [Orsova.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.private.md) 
 
-### [Orsova.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_Oltenia\Mehedinti\CityOrsova.secret.md)
+### [Orsova.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.personal.md) 
+
+### [Orsova.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.secret.md)
 

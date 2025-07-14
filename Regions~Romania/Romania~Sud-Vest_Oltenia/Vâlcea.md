@@ -41,15 +41,17 @@ markerFolder: ./Vâlcea/
 
 ## Confidential Links & Embeds: 
 
-### [Vâlcea.public](/_public/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaVâlcea.public.md) 
+### [Vâlcea](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.md) 
 
-### [Vâlcea.internal](/_internal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaVâlcea.internal.md) 
+### [Vâlcea.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.public.md) 
 
-### [Vâlcea.protect](/_protect/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaVâlcea.protect.md) 
+### [Vâlcea.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.internal.md) 
 
-### [Vâlcea.private](/_private/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaVâlcea.private.md) 
+### [Vâlcea.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.protect.md) 
 
-### [Vâlcea.personal](/_personal/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaVâlcea.personal.md) 
+### [Vâlcea.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.private.md) 
 
-### [Vâlcea.secret](/_secret/\Earth\Continent\Europe\Europe~East\Romania\Regions~Romania\Romania~Sud-Vest_OlteniaVâlcea.secret.md)
+### [Vâlcea.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.personal.md) 
+
+### [Vâlcea.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.secret.md)
 

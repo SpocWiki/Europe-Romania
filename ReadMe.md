@@ -1,36 +1,37 @@
 ---
 location:
-- 46.2258
-- 24.9906
+  - 46.2258
+  - 24.9906
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27006
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Romania
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Romania
-- Rumania
-- Roumanie
-- رومانيا
-- 罗马尼亚
-- Румыния
+  - Romania
+  - Rumania
+  - Roumanie
+  - رومانيا
+  - 罗马尼亚
+  - Румыния
 Languages:
-- ro
-- hu
-- rom
+  - ro
+  - hu
+  - rom
 ---
 
 

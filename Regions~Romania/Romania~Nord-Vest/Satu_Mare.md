@@ -1,30 +1,29 @@
 ---
-location: [ 47.7 , 22.8 ] 
+location:
+  - 47.7
+  - 22.8
 type: geo-Region
 title: Satu_Mare
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Satu_Mare
-
+  - Satu_Mare
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Satu_Mare

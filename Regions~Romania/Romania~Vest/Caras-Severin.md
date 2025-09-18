@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Caras-Severin
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Caras-Severin/
 markerFolder: ./Caras-Severin/

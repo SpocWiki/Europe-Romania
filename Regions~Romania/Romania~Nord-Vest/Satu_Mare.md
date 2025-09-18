@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Satu_Mare
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Satu_Mare/
 markerFolder: ./Satu_Mare/

@@ -38,7 +38,7 @@ has_id_wikidata: Q19660
 ```leaflet
 id: Bucharest
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bucharest/
 markerFolder: ./Bucharest/

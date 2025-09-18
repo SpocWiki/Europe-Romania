@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Hunedoara
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Hunedoara/
 markerFolder: ./Hunedoara/

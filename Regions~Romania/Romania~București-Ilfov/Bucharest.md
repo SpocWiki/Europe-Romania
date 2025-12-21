@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Bucharest
+  - Bukarest
+  - București
+has_id_wikidata: Q19660
 location:
   - 44.4
   - 26.1
@@ -12,21 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bucharest
-  - Bukarest
-  - București
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
-has_id_wikidata: Q19660
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Bucharest]]

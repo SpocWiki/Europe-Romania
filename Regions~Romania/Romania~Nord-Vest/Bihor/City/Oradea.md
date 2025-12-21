@@ -1,16 +1,19 @@
 ---
-location: [47.05,21.92] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Oradea
+location:
+  - 47.05
+  - 21.92
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33122
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

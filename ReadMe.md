@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Romania
+  - Rumania
+  - Roumanie
+  - رومانيا
+  - 罗马尼亚
+  - Румыния
+  - ReadMe
 location:
   - 46.2258
   - 24.9906
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Romania
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Romania
-  - Rumania
-  - Roumanie
-  - رومانيا
-  - 罗马尼亚
-  - Румыния
+publishDate: ''
+expiryDate: ''
 Languages:
   - ro
   - hu

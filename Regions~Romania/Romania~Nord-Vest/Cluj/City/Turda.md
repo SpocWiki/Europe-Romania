@@ -1,16 +1,19 @@
 ---
-location: [46.58,23.78] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Turda
+location:
+  - 46.58
+  - 23.78
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35049
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

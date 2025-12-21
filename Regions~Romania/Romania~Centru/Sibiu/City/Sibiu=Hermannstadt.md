@@ -1,16 +1,19 @@
 ---
-location: [45.8,24.15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sibiu=Hermannstadt
+location:
+  - 45.8
+  - 24.15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34239
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

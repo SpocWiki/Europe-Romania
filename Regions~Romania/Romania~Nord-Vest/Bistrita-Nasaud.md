@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bistrita-Nasaud
 location:
   - 47.2
   - 24.5
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bistrita-Nasaud
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Bistrita-Nasaud

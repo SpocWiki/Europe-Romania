@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Satu_Mare
+  - Satu Mare
 location:
   - 47.7
   - 22.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Satu_Mare
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Satu_Mare

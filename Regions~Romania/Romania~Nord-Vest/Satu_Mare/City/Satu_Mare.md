@@ -1,16 +1,20 @@
 ---
-location: [47.8,22.87] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Satu_Mare
+  - Satu Mare
+location:
+  - 47.8
+  - 22.87
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33971
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

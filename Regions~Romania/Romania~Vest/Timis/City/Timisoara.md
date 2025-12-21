@@ -1,16 +1,19 @@
 ---
-location: [45.75,21.22] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Timisoara
+location:
+  - 45.75
+  - 21.22
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34874
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

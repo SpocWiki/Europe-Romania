@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.27
 dv_has_place_latitude: 44.12
-dv_name: Silistria
+dv_has_name_: Silistria
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

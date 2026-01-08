@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.58
 dv_has_place_latitude: 45.65
-dv_name: Brasov=Kronstadt
+dv_has_name_: Brasov=Kronstadt
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

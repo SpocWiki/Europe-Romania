@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.22
 dv_has_place_latitude: 45.75
-dv_name: Timisoara
+dv_has_name_: Timisoara
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.98
 dv_has_place_latitude: 45.82
-dv_name: Fagaras
+dv_has_name_: Fagaras
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

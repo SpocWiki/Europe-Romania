@@ -41,15 +41,13 @@ dv_ISO4217-currency_country_name: ROMANIA
 dv_Telephone: 40
 dv_Global: true
 dv_Global_Name: World
-dv_name: Romania
-dv_name-en:
-  - Romania
-  - Romania
-dv_name-es: Rumania
-dv_name-fr: Roumanie
-dv_name-cn: 罗马尼亚
-dv_name-ar: رومانيا
-dv_name-ru: Румыния
+dv_has_name_: Romania
+dv_has_name_en: Romania
+dv_has_name_es: Rumania
+dv_has_name_fr: Roumanie
+dv_has_name_cn: 罗马尼亚
+dv_has_name_ar: رومانيا
+dv_has_name_ru: Румыния
 dv_CLDR_display_name: Romania
 dv_UNTERM_English: Romania
 dv_UNTERM_English_Formal: Romania
@@ -86,7 +84,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 642
 dv_ISO2: RO
 dv_ISO3: ROM
-dv_name-de: Rumänien
+dv_has_name_de: Rumänien
 dv_Area-Total: 238391
 dv_Area-Land: 230340
 dv_Continent: "[[../../../Europe]]"
@@ -112,12 +110,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Romania ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Romania ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -177,8 +175,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Romania] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Romania] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

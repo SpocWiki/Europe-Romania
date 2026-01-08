@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.67
 dv_has_place_latitude: 44.2
-dv_name: Constanta
+dv_has_name_: Constanta
 dv_Country: "[[../../Romania]]"
 ---
 #is_a_/Place  

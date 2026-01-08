@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.92
 dv_has_place_latitude: 47.05
-dv_name: Oradea
+dv_has_name_: Oradea
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

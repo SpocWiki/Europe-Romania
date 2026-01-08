@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.67
 dv_has_place_latitude: 47.75
-dv_name: Botosani
+dv_has_name_: Botosani
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

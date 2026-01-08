@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.58
 dv_has_place_latitude: 47.67
-dv_name: Baia-Mara
+dv_has_name_: Baia-Mara
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

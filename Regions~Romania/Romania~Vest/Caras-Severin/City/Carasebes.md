@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.22
 dv_has_place_latitude: 45.42
-dv_name: Carasebes
+dv_has_name_: Carasebes
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

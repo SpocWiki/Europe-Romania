@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.37
 dv_has_place_latitude: 44.43
-dv_name: Slatina
+dv_has_name_: Slatina
 dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  

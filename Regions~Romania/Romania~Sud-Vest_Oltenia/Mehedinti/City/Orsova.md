@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.38
 dv_has_place_latitude: 44.72
-dv_name: Orsova
+dv_has_name_: Orsova
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.78
 dv_has_place_latitude: 46.58
-dv_name: Turda
+dv_has_name_: Turda
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

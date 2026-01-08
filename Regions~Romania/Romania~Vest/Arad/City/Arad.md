@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.32
 dv_has_place_latitude: 46.17
-dv_name: Arad
+dv_has_name_: Arad
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

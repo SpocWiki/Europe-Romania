@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.9
 dv_has_place_latitude: 47.93
-dv_name: Sighet
+dv_has_name_: Sighet
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

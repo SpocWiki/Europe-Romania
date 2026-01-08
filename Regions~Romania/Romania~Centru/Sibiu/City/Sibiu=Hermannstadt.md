@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.15
 dv_has_place_latitude: 45.8
-dv_name: Sibiu=Hermannstadt
+dv_has_name_: Sibiu=Hermannstadt
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

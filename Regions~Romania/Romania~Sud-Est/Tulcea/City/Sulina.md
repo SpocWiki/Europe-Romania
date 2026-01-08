@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.68
 dv_has_place_latitude: 45.15
-dv_name: Sulina
+dv_has_name_: Sulina
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

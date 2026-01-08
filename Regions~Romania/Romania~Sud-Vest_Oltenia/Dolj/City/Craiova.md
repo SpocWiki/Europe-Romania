@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.8
 dv_has_place_latitude: 44.32
-dv_name: Craiova
+dv_has_name_: Craiova
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

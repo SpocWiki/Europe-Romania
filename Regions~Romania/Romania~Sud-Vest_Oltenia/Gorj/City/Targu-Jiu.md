@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.23
 dv_has_place_latitude: 45.03
-dv_name: Targu-Jiu
+dv_has_name_: Targu-Jiu
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

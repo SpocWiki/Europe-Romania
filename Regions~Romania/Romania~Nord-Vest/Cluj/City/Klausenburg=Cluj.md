@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.6
 dv_has_place_latitude: 46.77
-dv_name: Klausenburg=Cluj
+dv_has_name_: Klausenburg=Cluj
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

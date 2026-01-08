@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.58
 dv_has_place_latitude: 46.1
-dv_name: Alba-Julia
+dv_has_name_: Alba-Julia
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

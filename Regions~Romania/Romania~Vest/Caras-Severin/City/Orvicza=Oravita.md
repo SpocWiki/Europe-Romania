@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.63
 dv_has_place_latitude: 45.03
-dv_name: Orvicza=Oravita
+dv_has_name_: Orvicza=Oravita
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

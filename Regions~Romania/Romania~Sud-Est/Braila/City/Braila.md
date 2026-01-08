@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.97
 dv_has_place_latitude: 45.28
-dv_name: Braila
+dv_has_name_: Braila
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

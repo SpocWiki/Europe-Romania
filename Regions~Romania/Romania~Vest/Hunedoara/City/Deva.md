@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.92
 dv_has_place_latitude: 45.9
-dv_name: Deva
+dv_has_name_: Deva
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

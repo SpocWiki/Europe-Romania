@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.12
 dv_has_place_latitude: 44.42
-dv_name: Bukarest
+dv_has_name_: Bukarest
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

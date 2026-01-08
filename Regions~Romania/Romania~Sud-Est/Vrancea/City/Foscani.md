@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.08
 dv_has_place_latitude: 45.67
-dv_name: Foscani
+dv_has_name_: Foscani
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

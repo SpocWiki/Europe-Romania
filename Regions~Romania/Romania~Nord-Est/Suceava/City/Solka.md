@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.83
 dv_has_place_latitude: 47.7
-dv_name: Solka
+dv_has_name_: Solka
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

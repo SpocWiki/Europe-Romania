@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.07
 dv_has_place_latitude: 47.18
-dv_name: Zalau
+dv_has_name_: Zalau
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

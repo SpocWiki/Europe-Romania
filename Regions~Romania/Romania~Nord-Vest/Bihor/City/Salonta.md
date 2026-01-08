@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.65
 dv_has_place_latitude: 46.8
-dv_name: Salonta
+dv_has_name_: Salonta
 dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  

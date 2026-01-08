@@ -40,17 +40,17 @@ markerFolder: ./Galati/
 
 ## Confidential Links & Embeds: 
 
-### [Galati](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati|Galati]] 
 
-### [Galati.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.public|Galati.public]] 
 
-### [Galati.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.internal|Galati.internal]] 
 
-### [Galati.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.protect|Galati.protect]] 
 
-### [Galati.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.private|Galati.private]] 
 
-### [Galati.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.personal|Galati.personal]] 
 
-### [Galati.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Est/Galati.secret|Galati.secret]] 
 

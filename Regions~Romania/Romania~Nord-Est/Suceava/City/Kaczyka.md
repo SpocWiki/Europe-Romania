@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31245
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.83
+dv_has_place_latitude: 47.63
+dv_name: Kaczyka
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.83] 
-[has_place_latitude::47.63] 
-[name::Kaczyka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaczyka](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka|Kaczyka]] 
 
-### [Kaczyka.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.public|Kaczyka.public]] 
 
-### [Kaczyka.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.internal|Kaczyka.internal]] 
 
-### [Kaczyka.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.protect|Kaczyka.protect]] 
 
-### [Kaczyka.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.private|Kaczyka.private]] 
 
-### [Kaczyka.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.personal|Kaczyka.personal]] 
 
-### [Kaczyka.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Kaczyka.secret|Kaczyka.secret]] 
 

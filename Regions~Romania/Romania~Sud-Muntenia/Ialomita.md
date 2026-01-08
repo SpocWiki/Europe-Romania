@@ -40,17 +40,17 @@ markerFolder: ./Ialomita/
 
 ## Confidential Links & Embeds: 
 
-### [Ialomita](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita|Ialomita]] 
 
-### [Ialomita.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.public|Ialomita.public]] 
 
-### [Ialomita.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.internal|Ialomita.internal]] 
 
-### [Ialomita.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.protect|Ialomita.protect]] 
 
-### [Ialomita.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.private|Ialomita.private]] 
 
-### [Ialomita.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.personal|Ialomita.personal]] 
 
-### [Ialomita.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Ialomita.secret|Ialomita.secret]] 
 

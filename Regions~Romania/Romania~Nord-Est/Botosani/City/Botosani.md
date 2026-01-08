@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29293
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.67
+dv_has_place_latitude: 47.75
+dv_name: Botosani
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.67] 
-[has_place_latitude::47.75] 
-[name::Botosani] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Botosani](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani|Botosani]] 
 
-### [Botosani.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.public|Botosani.public]] 
 
-### [Botosani.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.internal|Botosani.internal]] 
 
-### [Botosani.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.protect|Botosani.protect]] 
 
-### [Botosani.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.private|Botosani.private]] 
 
-### [Botosani.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.personal|Botosani.personal]] 
 
-### [Botosani.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Botosani/City/Botosani.secret|Botosani.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29668
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.8
+dv_has_place_latitude: 44.32
+dv_name: Craiova
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.8] 
-[has_place_latitude::44.32] 
-[name::Craiova] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Craiova](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova|Craiova]] 
 
-### [Craiova.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.public|Craiova.public]] 
 
-### [Craiova.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.internal|Craiova.internal]] 
 
-### [Craiova.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.protect|Craiova.protect]] 
 
-### [Craiova.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.private|Craiova.private]] 
 
-### [Craiova.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.personal|Craiova.personal]] 
 
-### [Craiova.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Dolj/City/Craiova.secret|Craiova.secret]] 
 

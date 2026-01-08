@@ -40,17 +40,17 @@ markerFolder: ./Brasov/
 
 ## Confidential Links & Embeds: 
 
-### [Brasov](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov|Brasov]] 
 
-### [Brasov.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.public|Brasov.public]] 
 
-### [Brasov.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.internal|Brasov.internal]] 
 
-### [Brasov.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.protect|Brasov.protect]] 
 
-### [Brasov.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.private|Brasov.private]] 
 
-### [Brasov.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.personal|Brasov.personal]] 
 
-### [Brasov.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov.secret|Brasov.secret]] 
 

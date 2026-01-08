@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33142
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.38
+dv_has_place_latitude: 44.72
+dv_name: Orsova
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.38] 
-[has_place_latitude::44.72] 
-[name::Orsova] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orsova](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova|Orsova]] 
 
-### [Orsova.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.public|Orsova.public]] 
 
-### [Orsova.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.internal|Orsova.internal]] 
 
-### [Orsova.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.protect|Orsova.protect]] 
 
-### [Orsova.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.private|Orsova.private]] 
 
-### [Orsova.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.personal|Orsova.personal]] 
 
-### [Orsova.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti/City/Orsova.secret|Orsova.secret]] 
 

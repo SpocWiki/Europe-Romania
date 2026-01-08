@@ -40,17 +40,17 @@ markerFolder: ./Alba/
 
 ## Confidential Links & Embeds: 
 
-### [Alba](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba|Alba]] 
 
-### [Alba.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.public|Alba.public]] 
 
-### [Alba.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.internal|Alba.internal]] 
 
-### [Alba.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.protect|Alba.protect]] 
 
-### [Alba.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.private|Alba.private]] 
 
-### [Alba.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.personal|Alba.personal]] 
 
-### [Alba.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba.secret|Alba.secret]] 
 

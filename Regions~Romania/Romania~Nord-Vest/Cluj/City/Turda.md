@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35049
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.78
+dv_has_place_latitude: 46.58
+dv_name: Turda
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.78] 
-[has_place_latitude::46.58] 
-[name::Turda] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Turda](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda|Turda]] 
 
-### [Turda.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.public|Turda.public]] 
 
-### [Turda.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.internal|Turda.internal]] 
 
-### [Turda.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.protect|Turda.protect]] 
 
-### [Turda.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.private|Turda.private]] 
 
-### [Turda.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.personal|Turda.personal]] 
 
-### [Turda.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Turda.secret|Turda.secret]] 
 

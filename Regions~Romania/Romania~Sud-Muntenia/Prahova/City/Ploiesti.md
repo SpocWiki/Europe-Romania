@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33413
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.03
+dv_has_place_latitude: 44.95
+dv_name: Ploiesti
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.03] 
-[has_place_latitude::44.95] 
-[name::Ploiesti] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ploiesti](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti|Ploiesti]] 
 
-### [Ploiesti.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.public|Ploiesti.public]] 
 
-### [Ploiesti.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.internal|Ploiesti.internal]] 
 
-### [Ploiesti.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.protect|Ploiesti.protect]] 
 
-### [Ploiesti.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.private|Ploiesti.private]] 
 
-### [Ploiesti.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.personal|Ploiesti.personal]] 
 
-### [Ploiesti.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova/City/Ploiesti.secret|Ploiesti.secret]] 
 

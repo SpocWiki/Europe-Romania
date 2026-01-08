@@ -40,17 +40,17 @@ markerFolder: ./Teleorman/
 
 ## Confidential Links & Embeds: 
 
-### [Teleorman](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman|Teleorman]] 
 
-### [Teleorman.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.public|Teleorman.public]] 
 
-### [Teleorman.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.internal|Teleorman.internal]] 
 
-### [Teleorman.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.protect|Teleorman.protect]] 
 
-### [Teleorman.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.private|Teleorman.private]] 
 
-### [Teleorman.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.personal|Teleorman.personal]] 
 
-### [Teleorman.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Teleorman.secret|Teleorman.secret]] 
 

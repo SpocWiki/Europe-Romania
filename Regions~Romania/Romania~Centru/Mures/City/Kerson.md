@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31394
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.98
+dv_has_place_latitude: 46.63
+dv_name: Kerson
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.98] 
-[has_place_latitude::46.63] 
-[name::Kerson] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kerson](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson|Kerson]] 
 
-### [Kerson.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.public|Kerson.public]] 
 
-### [Kerson.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.internal|Kerson.internal]] 
 
-### [Kerson.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.protect|Kerson.protect]] 
 
-### [Kerson.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.private|Kerson.private]] 
 
-### [Kerson.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.personal|Kerson.personal]] 
 
-### [Kerson.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Mures/City/Kerson.secret|Kerson.secret]] 
 

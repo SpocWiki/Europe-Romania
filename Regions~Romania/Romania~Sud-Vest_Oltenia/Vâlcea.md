@@ -40,17 +40,17 @@ markerFolder: ./Vâlcea/
 
 ## Confidential Links & Embeds: 
 
-### [Vâlcea](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea|Vâlcea]] 
 
-### [Vâlcea.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.public|Vâlcea.public]] 
 
-### [Vâlcea.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.internal|Vâlcea.internal]] 
 
-### [Vâlcea.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.protect|Vâlcea.protect]] 
 
-### [Vâlcea.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.private|Vâlcea.private]] 
 
-### [Vâlcea.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.personal|Vâlcea.personal]] 
 
-### [Vâlcea.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Vâlcea.secret|Vâlcea.secret]] 
 

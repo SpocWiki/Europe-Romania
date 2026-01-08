@@ -40,17 +40,17 @@ markerFolder: ./Caras-Severin/
 
 ## Confidential Links & Embeds: 
 
-### [Caras-Severin](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin|Caras-Severin]] 
 
-### [Caras-Severin.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.public|Caras-Severin.public]] 
 
-### [Caras-Severin.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.internal|Caras-Severin.internal]] 
 
-### [Caras-Severin.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.protect|Caras-Severin.protect]] 
 
-### [Caras-Severin.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.private|Caras-Severin.private]] 
 
-### [Caras-Severin.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.personal|Caras-Severin.personal]] 
 
-### [Caras-Severin.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Caras-Severin.secret|Caras-Severin.secret]] 
 

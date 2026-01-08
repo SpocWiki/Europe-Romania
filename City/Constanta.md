@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29652
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.67
+dv_has_place_latitude: 44.2
+dv_name: Constanta
+dv_Country: "[[../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.67] 
-[has_place_latitude::44.2] 
-[name::Constanta] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Constanta](/_Standards/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/City/Constanta|Constanta]] 
 
-### [Constanta.public](/_public/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.public|Constanta.public]] 
 
-### [Constanta.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.internal|Constanta.internal]] 
 
-### [Constanta.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.protect|Constanta.protect]] 
 
-### [Constanta.private](/_private/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.private|Constanta.private]] 
 
-### [Constanta.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.personal|Constanta.personal]] 
 
-### [Constanta.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/City/Constanta.secret|Constanta.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28851
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.32
+dv_has_place_latitude: 46.17
+dv_name: Arad
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.32] 
-[has_place_latitude::46.17] 
-[name::Arad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arad](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad|Arad]] 
 
-### [Arad.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.public|Arad.public]] 
 
-### [Arad.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.internal|Arad.internal]] 
 
-### [Arad.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.protect|Arad.protect]] 
 
-### [Arad.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.private|Arad.private]] 
 
-### [Arad.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.personal|Arad.personal]] 
 
-### [Arad.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Arad/City/Arad.secret|Arad.secret]] 
 

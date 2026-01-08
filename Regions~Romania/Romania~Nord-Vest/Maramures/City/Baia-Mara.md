@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28986
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.58
+dv_has_place_latitude: 47.67
+dv_name: Baia-Mara
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.58] 
-[has_place_latitude::47.67] 
-[name::Baia-Mara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baia-Mara](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara|Baia-Mara]] 
 
-### [Baia-Mara.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.public|Baia-Mara.public]] 
 
-### [Baia-Mara.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.internal|Baia-Mara.internal]] 
 
-### [Baia-Mara.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.protect|Baia-Mara.protect]] 
 
-### [Baia-Mara.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.private|Baia-Mara.private]] 
 
-### [Baia-Mara.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.personal|Baia-Mara.personal]] 
 
-### [Baia-Mara.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures/City/Baia-Mara.secret|Baia-Mara.secret]] 
 

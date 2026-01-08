@@ -40,17 +40,17 @@ markerFolder: ./Maramures/
 
 ## Confidential Links & Embeds: 
 
-### [Maramures](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures|Maramures]] 
 
-### [Maramures.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.public|Maramures.public]] 
 
-### [Maramures.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.internal|Maramures.internal]] 
 
-### [Maramures.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.protect|Maramures.protect]] 
 
-### [Maramures.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.private|Maramures.private]] 
 
-### [Maramures.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.personal|Maramures.personal]] 
 
-### [Maramures.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Maramures.secret|Maramures.secret]] 
 

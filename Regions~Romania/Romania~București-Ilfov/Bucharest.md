@@ -22,16 +22,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Bucharest,19660|WD~Bucharest,19660]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Bucharest,19660|WD~Bucharest,19660]]"
 ---
 
 # [[Bucharest]]
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Bucharest,19660|WD~Bucharest,19660]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -85,21 +88,19 @@ markerFolder: ./Bucharest/
 > [Wikipedia](https://en.wikipedia.org/wiki/Bucharest) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Bucharest](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest|Bucharest]] 
 
-### [Bucharest.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.public|Bucharest.public]] 
 
-### [Bucharest.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.internal|Bucharest.internal]] 
 
-### [Bucharest.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.protect|Bucharest.protect]] 
 
-### [Bucharest.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.private|Bucharest.private]] 
 
-### [Bucharest.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.personal|Bucharest.personal]] 
 
-### [Bucharest.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest.secret|Bucharest.secret]] 
 

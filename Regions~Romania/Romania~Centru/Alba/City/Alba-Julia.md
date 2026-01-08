@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28710
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.58
+dv_has_place_latitude: 46.1
+dv_name: Alba-Julia
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.58] 
-[has_place_latitude::46.1] 
-[name::Alba-Julia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alba-Julia](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia|Alba-Julia]] 
 
-### [Alba-Julia.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.public|Alba-Julia.public]] 
 
-### [Alba-Julia.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.internal|Alba-Julia.internal]] 
 
-### [Alba-Julia.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.protect|Alba-Julia.protect]] 
 
-### [Alba-Julia.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.private|Alba-Julia.private]] 
 
-### [Alba-Julia.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.personal|Alba-Julia.personal]] 
 
-### [Alba-Julia.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Alba/City/Alba-Julia.secret|Alba-Julia.secret]] 
 

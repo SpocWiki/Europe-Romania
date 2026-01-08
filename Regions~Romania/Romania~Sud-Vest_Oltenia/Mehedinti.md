@@ -40,17 +40,17 @@ markerFolder: ./Mehedinti/
 
 ## Confidential Links & Embeds: 
 
-### [Mehedinti](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti|Mehedinti]] 
 
-### [Mehedinti.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.public|Mehedinti.public]] 
 
-### [Mehedinti.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.internal|Mehedinti.internal]] 
 
-### [Mehedinti.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.protect|Mehedinti.protect]] 
 
-### [Mehedinti.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.private|Mehedinti.private]] 
 
-### [Mehedinti.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.personal|Mehedinti.personal]] 
 
-### [Mehedinti.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Mehedinti.secret|Mehedinti.secret]] 
 

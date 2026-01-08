@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29630
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.58
+dv_has_place_latitude: 46.78
+dv_name: Cluj=Klausenburg
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.58] 
-[has_place_latitude::46.78] 
-[name::Cluj=Klausenburg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cluj=Klausenburg](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg|Cluj=Klausenburg]] 
 
-### [Cluj=Klausenburg.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.public|Cluj=Klausenburg.public]] 
 
-### [Cluj=Klausenburg.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.internal|Cluj=Klausenburg.internal]] 
 
-### [Cluj=Klausenburg.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.protect|Cluj=Klausenburg.protect]] 
 
-### [Cluj=Klausenburg.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.private|Cluj=Klausenburg.private]] 
 
-### [Cluj=Klausenburg.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.personal|Cluj=Klausenburg.personal]] 
 
-### [Cluj=Klausenburg.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Cluj/City/Cluj=Klausenburg.secret|Cluj=Klausenburg.secret]] 
 

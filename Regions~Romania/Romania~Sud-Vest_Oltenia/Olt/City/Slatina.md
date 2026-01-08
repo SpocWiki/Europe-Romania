@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34318
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.37
+dv_has_place_latitude: 44.43
+dv_name: Slatina
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.37] 
-[has_place_latitude::44.43] 
-[name::Slatina] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Slatina](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina|Slatina]] 
 
-### [Slatina.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.public|Slatina.public]] 
 
-### [Slatina.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.internal|Slatina.internal]] 
 
-### [Slatina.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.protect|Slatina.protect]] 
 
-### [Slatina.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.private|Slatina.private]] 
 
-### [Slatina.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.personal|Slatina.personal]] 
 
-### [Slatina.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Vest_Oltenia/Olt/City/Slatina.secret|Slatina.secret]] 
 

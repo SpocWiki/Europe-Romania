@@ -40,17 +40,17 @@ markerFolder: ./Calarasi/
 
 ## Confidential Links & Embeds: 
 
-### [Calarasi](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi|Calarasi]] 
 
-### [Calarasi.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.public|Calarasi.public]] 
 
-### [Calarasi.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.internal|Calarasi.internal]] 
 
-### [Calarasi.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.protect|Calarasi.protect]] 
 
-### [Calarasi.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.private|Calarasi.private]] 
 
-### [Calarasi.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.personal|Calarasi.personal]] 
 
-### [Calarasi.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Calarasi.secret|Calarasi.secret]] 
 

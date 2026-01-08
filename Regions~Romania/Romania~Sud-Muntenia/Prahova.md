@@ -40,17 +40,17 @@ markerFolder: ./Prahova/
 
 ## Confidential Links & Embeds: 
 
-### [Prahova](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova|Prahova]] 
 
-### [Prahova.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.public|Prahova.public]] 
 
-### [Prahova.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.internal|Prahova.internal]] 
 
-### [Prahova.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.protect|Prahova.protect]] 
 
-### [Prahova.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.private|Prahova.private]] 
 
-### [Prahova.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.personal|Prahova.personal]] 
 
-### [Prahova.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Sud-Muntenia/Prahova.secret|Prahova.secret]] 
 

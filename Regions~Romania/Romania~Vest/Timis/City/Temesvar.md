@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34801
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.25
+dv_has_place_latitude: 45.77
+dv_name: Temesvar
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.25] 
-[has_place_latitude::45.77] 
-[name::Temesvar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Temesvar](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar|Temesvar]] 
 
-### [Temesvar.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.public|Temesvar.public]] 
 
-### [Temesvar.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.internal|Temesvar.internal]] 
 
-### [Temesvar.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.protect|Temesvar.protect]] 
 
-### [Temesvar.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.private|Temesvar.private]] 
 
-### [Temesvar.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.personal|Temesvar.personal]] 
 
-### [Temesvar.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Vest/Timis/City/Temesvar.secret|Temesvar.secret]] 
 

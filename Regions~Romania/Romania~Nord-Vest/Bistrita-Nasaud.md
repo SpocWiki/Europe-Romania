@@ -40,17 +40,17 @@ markerFolder: ./Bistrita-Nasaud/
 
 ## Confidential Links & Embeds: 
 
-### [Bistrita-Nasaud](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud|Bistrita-Nasaud]] 
 
-### [Bistrita-Nasaud.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.public|Bistrita-Nasaud.public]] 
 
-### [Bistrita-Nasaud.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.internal|Bistrita-Nasaud.internal]] 
 
-### [Bistrita-Nasaud.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.protect|Bistrita-Nasaud.protect]] 
 
-### [Bistrita-Nasaud.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.private|Bistrita-Nasaud.private]] 
 
-### [Bistrita-Nasaud.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.personal|Bistrita-Nasaud.personal]] 
 
-### [Bistrita-Nasaud.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Vest/Bistrita-Nasaud.secret|Bistrita-Nasaud.secret]] 
 

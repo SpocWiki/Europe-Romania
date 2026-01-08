@@ -12,11 +12,14 @@ country: "[[_Standards/WikiData/WD~Romania,218]]"
 Commons_category: History of Romania
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Roma%20in%20Eastern%20Europe%20-%20ethnic%20policy%20and%20security%20in%20the%20Czech%20Republic%2C%20Slovakia%2C%20and%20Romania%20%28IA%20romineasterneuro1094532643%29.pdf
 Dewey_Decimal_Classification: "949.8"
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Romania,216672|WD~History_of_Romania,216672]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Romania,216672|WD~History_of_Romania,216672]]"
 ---
 
 # [[History_of_Romania]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Romania,216672|WD~History_of_Romania,216672]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +48,21 @@ Dewey_Decimal_Classification: "949.8"
 > After the 1989 Revolution, Romania began a transition towards democracy and a market economy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Romania) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/History_of_Romania|History_of_Romania]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/History_of_Romania.public|History_of_Romania.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/History_of_Romania.internal|History_of_Romania.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/History_of_Romania.protect|History_of_Romania.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/History_of_Romania.private|History_of_Romania.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/History_of_Romania.personal|History_of_Romania.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/History_of_Romania.secret|History_of_Romania.secret]] 
 

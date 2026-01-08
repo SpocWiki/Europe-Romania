@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29318
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.58
+dv_has_place_latitude: 45.65
+dv_name: Brasov=Kronstadt
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.58] 
-[has_place_latitude::45.65] 
-[name::Brasov=Kronstadt] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brasov=Kronstadt](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt|Brasov=Kronstadt]] 
 
-### [Brasov=Kronstadt.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.public|Brasov=Kronstadt.public]] 
 
-### [Brasov=Kronstadt.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.internal|Brasov=Kronstadt.internal]] 
 
-### [Brasov=Kronstadt.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.protect|Brasov=Kronstadt.protect]] 
 
-### [Brasov=Kronstadt.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.private|Brasov=Kronstadt.private]] 
 
-### [Brasov=Kronstadt.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.personal|Brasov=Kronstadt.personal]] 
 
-### [Brasov=Kronstadt.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Centru/Brasov/City/Brasov=Kronstadt.secret|Brasov=Kronstadt.secret]] 
 

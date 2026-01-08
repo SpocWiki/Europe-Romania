@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29406
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.12
+dv_has_place_latitude: 44.42
+dv_name: Bukarest
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.12] 
-[has_place_latitude::44.42] 
-[name::Bukarest] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bukarest](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest|Bukarest]] 
 
-### [Bukarest.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.public|Bukarest.public]] 
 
-### [Bukarest.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.internal|Bukarest.internal]] 
 
-### [Bukarest.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.protect|Bukarest.protect]] 
 
-### [Bukarest.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.private|Bukarest.private]] 
 
-### [Bukarest.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.personal|Bukarest.personal]] 
 
-### [Bukarest.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest.secret|Bukarest.secret]] 
 

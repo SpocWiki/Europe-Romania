@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29847
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.37
+dv_has_place_latitude: 47.35
+dv_name: Dorna Watra
+dv_Country: "[[../../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.37] 
-[has_place_latitude::47.35] 
-[name::Dorna Watra] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorna_Watra](/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra|Dorna_Watra]] 
 
-### [Dorna_Watra.public](/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.public|Dorna_Watra.public]] 
 
-### [Dorna_Watra.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.internal|Dorna_Watra.internal]] 
 
-### [Dorna_Watra.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.protect|Dorna_Watra.protect]] 
 
-### [Dorna_Watra.private](/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.private|Dorna_Watra.private]] 
 
-### [Dorna_Watra.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.personal|Dorna_Watra.personal]] 
 
-### [Dorna_Watra.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania/Regions~Romania/Romania~Nord-Est/Suceava/City/Dorna_Watra.secret|Dorna_Watra.secret]] 
 

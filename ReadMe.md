@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 罗马尼亚
 dv_UNTERM_French_Formal: la Roumanie
 dv_UNTERM_Russian: Румыния
 dv_UNTERM_Russian_Formal: Румыния
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Romania]]'
 dv_Sub-region_Name: '[[Eastern Europe]]'
 dv_Region: 150
@@ -52,7 +52,7 @@ dv_ISO2: RO
 dv_ISO3: ROM
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Romania,218|WD~Romania,218]]'
+  - '[[../../../../../WikiData/WD~Romania,218|WD~Romania,218]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~East/Romania|Romania]]'
   - '[[/_public/Earth/Continent/Europe/Europe~East/Romania.public|Romania.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~East/Romania.internal|Romania.internal]]'
@@ -383,16 +383,16 @@ dv_has_:
 dv_has_name_de: Rumänien
 dv_Area-Total: 238391
 dv_Area-Land: 230340
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: RO
-dv_Capital: '[[Romania/Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest|Bukarest]]'
+dv_Capital: '[[Regions~Romania/Romania~București-Ilfov/Bucharest/City/Bukarest|Bukarest]]'
 dv_Alcohol-l: 15.3
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 24.9906
 dv_has_place_latitude: 46.2258
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Romania,218|WD~Romania,218]]'
+- '[[../../../../../WikiData/WD~Romania,218|WD~Romania,218]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~East/Romania|Romania]]'
 - '[[/_public/Earth/Continent/Europe/Europe~East/Romania.public|Romania.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~East/Romania.internal|Romania.internal]]'
@@ -705,7 +705,7 @@ demonym:
 - Roumain
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -854,7 +854,7 @@ male_population:
 maritime_identification_digits: 264
 marriageable_age: 18
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -1051,7 +1051,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Romania/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -1072,7 +1072,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Romania_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1098,7 +1098,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Romania.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Romania.mp3|Anthem-Romania.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Romania.mp3|Anthem-Romania.mp3]]
 ![[Flag_of_Romania.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
